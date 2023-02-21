@@ -1,0 +1,2232 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SetDTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 73 central VERSION: v20190409 -->
+<Documento ID="MiPE76944108-4416">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>15</Folio>
+        <FchEmis>2019-04-30</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>12124094-7</RUTRecep>
+        <RznSocRecep>PATRICIO HUMBERTO SEPULVEDA ZARATE</RznSocRecep>
+        <GiroRecep>SERVICIO DE LAVADO DE VEHICULOS AUTOMOTO</GiroRecep>
+        <DirRecep>AVDA. ALEJANDOR AZOLAS 2299  A</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>13874</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>2636</IVA>
+        <MntTotal>16510</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <NmbItem>cera kit spray</NmbItem>
+      <QtyItem>2.00</QtyItem>
+      <PrcItem>1555.00</PrcItem>
+      <MontoItem>3110</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <NmbItem>aceite amalie atf</NmbItem>
+      <QtyItem>3.00</QtyItem>
+      <PrcItem>3588.00</PrcItem>
+      <MontoItem>10764</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>140</FolioRef>
+      <FchRef>2019-04-30</FchRef>
+      <CodRef>1</CodRef>
+      <RazonRef>ANULA DOCUMENTO DE LA REFERENCIA</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>15</F><FE>2019-04-30</FE><RR>12124094-7</RR><RSR>PATRICIO HUMBERTO SEPULVEDA ZARATE</RSR><MNT>16510</MNT><IT1>cera kit spray</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>15</D><H>15</H></RNG><FA>2019-04-30</FA><RSAPK><M>scZ8JImONyGz+8U8GjcJ15w2h3dGzBwHHKcyltFrWthnkZndRe43W7wZsnBenn+XOzdqvtAZQsYw8IjV8WYWhQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">SofGModGxvZPVMJJVLL4EiJMjBgOM2mU//HMgIbiIE68WjGkCV37oCDln3goheaAysKGyBgJ5zSA/463IJ9OxA==</FRMA></CAF><TSTED>2019-04-30T12:52:04</TSTED></DD><FRMT algoritmo="SHA1withRSA">ZTdDQ+/nhkUvXDNUk506L+wGJkWED4EUrqDLwIHx8+h+4vw769QzAuOxlJu4Hd+r9tMO53Kc2HfOk6Eb6jGgyQ==</FRMT></TED>
+    <TmstFirma>2019-04-30T12:52:04</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-4416">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>Q7ZV+XtBGgfqAwlPFKnjHuh9lxs=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+Scq45UKs0JjbmaDYFIMHXb2opvA21E4jUr4LqB1oHiouRJsy/1qWPw0TvzVrfuePP6bC/oj6jJfL
+0WHLR/ZDSKgbUV7oCWqDeYYU1wJio1qs+W0vDY1T+i97R+Gj6tV8vHiePfZ8GcjqPW1j12JJeqgN
+MtNb6uPrrdUlDuusV7E=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 73 central VERSION: v20190409 -->
+<Documento ID="MiPE76944108-24868">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>14</Folio>
+        <FchEmis>2019-04-29</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>96702350-7</RUTRecep>
+        <RznSocRecep>TRANSPORTES LINEA DOS S A</RznSocRecep>
+        <GiroRecep>VENTA AL POR MENOR DE OTROS PRODUCTOS EN</GiroRecep>
+        <DirRecep>AV LOA  2741</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>122960</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>23362</IVA>
+        <MntTotal>146322</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>AF2033</VlrCodigo>
+      </CdgItem>
+      <NmbItem>MEZCLA PRECISA</NmbItem>
+      <QtyItem>18.00</QtyItem>
+      <PrcItem>4950.00</PrcItem>
+      <MontoItem>89100</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>10155</VlrCodigo>
+      </CdgItem>
+      <NmbItem>BLACK ICE</NmbItem>
+      <QtyItem>24.00</QtyItem>
+      <PrcItem>462.00</PrcItem>
+      <MontoItem>11088</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>55</TpoCodigo>
+        <VlrCodigo>TEFLON</VlrCodigo>
+      </CdgItem>
+      <NmbItem>TEFLON BLANCO</NmbItem>
+      <QtyItem>20.00</QtyItem>
+      <PrcItem>235.00</PrcItem>
+      <MontoItem>4700</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>36</TpoCodigo>
+        <VlrCodigo>5229</VlrCodigo>
+      </CdgItem>
+      <NmbItem>AMP 12V P/D</NmbItem>
+      <QtyItem>30.00</QtyItem>
+      <PrcItem>214.00</PrcItem>
+      <MontoItem>6420</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>5</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>36</TpoCodigo>
+        <VlrCodigo>5239</VlrCodigo>
+      </CdgItem>
+      <NmbItem>AMP 24V P/D</NmbItem>
+      <QtyItem>30.00</QtyItem>
+      <PrcItem>160.00</PrcItem>
+      <MontoItem>4800</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>6</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>11</TpoCodigo>
+        <VlrCodigo>UR6M</VlrCodigo>
+      </CdgItem>
+      <NmbItem>ACOPLE</NmbItem>
+      <QtyItem>12.00</QtyItem>
+      <PrcItem>571.00</PrcItem>
+      <MontoItem>6852</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>127</FolioRef>
+      <FchRef>2019-04-27</FchRef>
+      <CodRef>1</CodRef>
+      <RazonRef>ANULA DOCUMENTO DE LA REFERENCIA</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>14</F><FE>2019-04-29</FE><RR>96702350-7</RR><RSR>TRANSPORTES LINEA DOS S A</RSR><MNT>146322</MNT><IT1>MEZCLA PRECISA</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>14</D><H>14</H></RNG><FA>2019-04-29</FA><RSAPK><M>6D6AR0uKJ7YGjYOBJINi2cehy9GuDI5k8Y7yEVJFn3YocQYhWIeKxyNCsRCypR1FijaY696YaRLrTKjbENpl9Q==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">S9DdfCki+Cd5+M70OcCsWRi+TEvdyXfdahJXCzik0ZFyXNc+4AORKw1eEBvW9/EWC2ilwSQHhBfewPtaBQvOoA==</FRMA></CAF><TSTED>2019-04-29T17:42:08</TSTED></DD><FRMT algoritmo="SHA1withRSA">lbEd5IZY8QHR/yDbBjhqNdTrB0s99uRomWfsaYEKN6FZkQn83zQZJ6DPTEPjMRoHYTzGDl+JUXyxbPAqRKcY/w==</FRMT></TED>
+    <TmstFirma>2019-04-29T17:42:08</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-24868">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>4pwe1rcrWZXnArpE+NAkeQtZk+k=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+i2aN4zrR2yX7LHugxczWWHwnMRfmwmfhAuYVKhCjqJ4p7SwB6xCbduQyA8jPWVdj6RdSiluh8hId
+ClG8Mb4zggW7OT+Ugw5Wg9/fEkS5QxaT54qA2d/1OKG780AWprl00bcrbpij7ZlkayvyaIcvCVEo
+XUi31kBNQjAxrTSPIFA=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 73 central VERSION: v20190409 -->
+<Documento ID="MiPE76944108-32414">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>13</Folio>
+        <FchEmis>2019-04-26</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>10609122-6</RUTRecep>
+        <RznSocRecep>PATRICIA INES PIZARRO ZARRICUETA</RznSocRecep>
+        <GiroRecep>MANTENIMIENTO Y REPARACION DE VEHICULOS</GiroRecep>
+        <DirRecep>CAPITAN AVALOS 2516   CABO AROCA</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>22176</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>4213</IVA>
+        <MntTotal>26389</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>10101</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PINO AOMA PINO</NmbItem>
+      <QtyItem>12.00</QtyItem>
+      <PrcItem>462.00</PrcItem>
+      <MontoItem>5544</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>10105</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PINO AROMA VANILLA</NmbItem>
+      <QtyItem>12.00</QtyItem>
+      <PrcItem>462.00</PrcItem>
+      <MontoItem>5544</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>10317</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PINO AROMA COCO</NmbItem>
+      <QtyItem>12.00</QtyItem>
+      <PrcItem>462.00</PrcItem>
+      <MontoItem>5544</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>17146</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PINO AROMA VIENTO ARTICO</NmbItem>
+      <QtyItem>12.00</QtyItem>
+      <PrcItem>462.00</PrcItem>
+      <MontoItem>5544</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>115</FolioRef>
+      <FchRef>2019-04-25</FchRef>
+      <CodRef>1</CodRef>
+      <RazonRef>ANULA DOCUMENTO DE LA REFERENCIA</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>13</F><FE>2019-04-26</FE><RR>10609122-6</RR><RSR>PATRICIA INES PIZARRO ZARRICUETA</RSR><MNT>26389</MNT><IT1>PINO AOMA PINO</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>13</D><H>13</H></RNG><FA>2019-04-26</FA><RSAPK><M>uDvweSAjup/F4eiZHcoXweoo9aWeFNbJeS6oe7x0yWK8359s0SXxXXkGOsO1/Xb+hQi2nQEZJabMFeCRFggFRw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">E6NK2uciqAiy3Ny1d6CUfKOSJqrsuqMYYehGsnTBkwG7XJfVnLze8y+66PmPgWPVnUIioaxDbfHQvGcR+xeedQ==</FRMA></CAF><TSTED>2019-04-26T10:41:06</TSTED></DD><FRMT algoritmo="SHA1withRSA">SJyQmsuLrBvgVvnj27msimC2AjXmduCurCAVB/hp+a27FEhz+jR8q5TAfFT9vpTZztnOsOIhXI317MEM4bqPfw==</FRMT></TED>
+    <TmstFirma>2019-04-26T10:41:06</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-32414">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>gKAShjGcrDoD0ZIAgCeKRNV/yGk=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+TW4aqB1QHEr7S9UteEmFnpc0KwQFwF9JxL1J1P44DVqRGXijNw+jk0Dv9c0kB7wYk/9cOkytQVoZ
+JoUTB465eHbmXV3UnnPyMaKuRRphplh/q75u60HWPoY5+xcydGSydJF2o2Fv1j3rEgKgFi+8jz04
+uaU+Ms6VQv4AixKLpe0=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 73 central VERSION: v20190409 -->
+<Documento ID="MiPE76944108-30316">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>11</Folio>
+        <FchEmis>2019-04-25</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>77616080-6</RUTRecep>
+        <RznSocRecep>ESTACIONES DE SERVICIO CORNEJO Y COMPANIA LIMITADA</RznSocRecep>
+        <GiroRecep>VENTA AL POR MENOR DE COMBUSTIBLES PARA</GiroRecep>
+        <DirRecep>MANUEL CASTILLO IBACETA 2920</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>53442</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>10154</IVA>
+        <MntTotal>63596</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>21</TpoCodigo>
+        <VlrCodigo>ADX5L</VlrCodigo>
+      </CdgItem>
+      <NmbItem>AGUA DESTILADA X 5 LITROS</NmbItem>
+      <QtyItem>15.00</QtyItem>
+      <PrcItem>832.00</PrcItem>
+      <MontoItem>12480</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>21</TpoCodigo>
+        <VlrCodigo>AVX5L</VlrCodigo>
+      </CdgItem>
+      <NmbItem>AGUA VERDE X 5 LITROS</NmbItem>
+      <QtyItem>15.00</QtyItem>
+      <PrcItem>882.00</PrcItem>
+      <MontoItem>13230</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>66</TpoCodigo>
+        <VlrCodigo>FS1029</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FILTRO FLEETGUARD DIESEL</NmbItem>
+      <DscItem>RACOR FS1029</DscItem>
+      <QtyItem>6.00</QtyItem>
+      <PrcItem>4622.00</PrcItem>
+      <MontoItem>27732</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>95</FolioRef>
+      <FchRef>2019-04-18</FchRef>
+      <CodRef>3</CodRef>
+      <RazonRef>error monto</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>11</F><FE>2019-04-25</FE><RR>77616080-6</RR><RSR>ESTACIONES DE SERVICIO CORNEJO Y COMPANI</RSR><MNT>63596</MNT><IT1>AGUA DESTILADA X 5 LITROS</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>11</D><H>11</H></RNG><FA>2019-04-25</FA><RSAPK><M>xLHZBXkX981zAK6M/fgtT59hBPIAh+yIa6DbEBrZ47aXj8fE/IWcFTsh2GQjpVQazSEXXaswh0VqJ43fKheYsw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">B7QYWQugG2vF1d0DwRvf+nG/yusX8kgISZIHFc3XaaoW0FkVWR1uX0sFOHYIk+lZH69UehFg+AvdM4STziOngQ==</FRMA></CAF><TSTED>2019-04-25T17:39:19</TSTED></DD><FRMT algoritmo="SHA1withRSA">vGmVsBea8tAPtDtugeoVXST06wI9vEqOzuZ8MjARC2tiNCchJwfqgp1CbZbzPQk11DPZCxqzkkL+H6GigebHRA==</FRMT></TED>
+    <TmstFirma>2019-04-25T17:39:19</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-30316">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>awwjN+0yZ+wBZKqghU0b4Tu63g4=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+ruATxB+FijuLVjTMjzxmvCmtJ14LfS1rrq1DkQbCi71cc++U+2QpIxuJZbWNv08xsEsDsSTft2ja
+34YbQ9Re+4ySf4RNZVkMJDYHxiZfteNmEqc4HZ1EWKLb3LdMZlhGyIdCMwMdLUsGkHsea60HaQ22
+OkzInvoiVfE+J+zPGsc=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 73 central VERSION: v20190409 -->
+<Documento ID="MiPE76944108-1325">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>10</Folio>
+        <FchEmis>2019-04-25</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>12124094-7</RUTRecep>
+        <RznSocRecep>PATRICIO HUMBERTO SEPULVEDA ZARATE</RznSocRecep>
+        <GiroRecep>SERVICIO DE LAVADO DE VEHICULOS AUTOMOTO</GiroRecep>
+        <DirRecep>AVDA. ALEJANDOR AZOLAS 2299  A</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>26152</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>4969</IVA>
+        <MntTotal>31121</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>TW818/8</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FILTRO ACEITE 818/8</NmbItem>
+      <QtyItem>4.00</QtyItem>
+      <PrcItem>992.00</PrcItem>
+      <MontoItem>3968</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>TW927/8</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FILTRO TROOP 927/8</NmbItem>
+      <QtyItem>3.00</QtyItem>
+      <PrcItem>1891.00</PrcItem>
+      <MontoItem>5673</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>TW610/82</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FILTRO TROOP 610/82</NmbItem>
+      <QtyItem>4.00</QtyItem>
+      <PrcItem>924.00</PrcItem>
+      <MontoItem>3696</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>TW67/80</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FILTRO TROOP W67/80</NmbItem>
+      <QtyItem>3.00</QtyItem>
+      <PrcItem>1076.00</PrcItem>
+      <MontoItem>3228</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>5</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>130</TpoCodigo>
+        <VlrCodigo>712/19</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FILTRO KENDALL</NmbItem>
+      <QtyItem>2.00</QtyItem>
+      <PrcItem>1092.00</PrcItem>
+      <MontoItem>2184</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>6</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>130</TpoCodigo>
+        <VlrCodigo>712/81</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FILTRO KENDALL</NmbItem>
+      <QtyItem>3.00</QtyItem>
+      <PrcItem>1151.00</PrcItem>
+      <MontoItem>3453</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>7</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>2631</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FILTRO TROOP AIRE</NmbItem>
+      <QtyItem>2.00</QtyItem>
+      <PrcItem>1975.00</PrcItem>
+      <MontoItem>3950</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>113</FolioRef>
+      <FchRef>2019-04-25</FchRef>
+      <CodRef>1</CodRef>
+      <RazonRef>ANULA DOCUMENTO DE LA REFERENCIA</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>10</F><FE>2019-04-25</FE><RR>12124094-7</RR><RSR>PATRICIO HUMBERTO SEPULVEDA ZARATE</RSR><MNT>31121</MNT><IT1>FILTRO ACEITE 818/8</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>10</D><H>10</H></RNG><FA>2019-04-25</FA><RSAPK><M>9gueEQ2GjmokP6drUNhH9Gc4+RQn8ywu10GaJiGNAj0+LPOT0ZSLgNDfchv+gYQmgcVlo6Kky9jwENIcviG5QQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">T/wgPlPHmcgRlSXjipaSVkyCgSve6hXv1Yg+0ZF93eyf6etWxLZrzZ5DSHyC18uBDpqinzw8MK1vNoh6mdVw8Q==</FRMA></CAF><TSTED>2019-04-25T17:34:33</TSTED></DD><FRMT algoritmo="SHA1withRSA">b71bta9hVauOFXGwVDsyMtE54CmGP8zO1FtW0Xo4bkad3HB6G7YCK/slRsq3WVXFDVQ0By/tXJdRPPpVILotrg==</FRMT></TED>
+    <TmstFirma>2019-04-25T17:34:33</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-1325">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>vSNDEdkXuSW7wh7bUVdjFa2Wvko=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+IaQCcjS5udtzdViDQKLFelW/BpXdmMTTgpu43gMdfzqzW6hS61SCuQsqX9d5du9eddcPbLhrVHhc
+OdUgNNG6ixEXAIQKqHgyCtHzdRNI8FxU0lCBVMG/86ognGN0OLaLp8GgLOmsbVSn8XXXMKYe44ss
+BRm2zjmqV56wQRWoSJ8=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 73 central VERSION: v20190409 -->
+<Documento ID="MiPE76944108-26517">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>9</Folio>
+        <FchEmis>2019-04-23</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>12124094-7</RUTRecep>
+        <RznSocRecep>PATRICIO HUMBERTO SEPULVEDA ZARATE</RznSocRecep>
+        <GiroRecep>SERVICIO DE LAVADO DE VEHICULOS AUTOMOTO</GiroRecep>
+        <DirRecep>AVDA. ALEJANDOR AZOLAS 2299  A</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>21984</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>4177</IVA>
+        <MntTotal>26161</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>21</TpoCodigo>
+        <VlrCodigo>pc1</VlrCodigo>
+      </CdgItem>
+      <NmbItem>protec</NmbItem>
+      <QtyItem>10.00</QtyItem>
+      <PrcItem>1252.00</PrcItem>
+      <MontoItem>12520</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>130</TpoCodigo>
+        <VlrCodigo>c2635/1</VlrCodigo>
+      </CdgItem>
+      <NmbItem>filtro kendall c2635/1</NmbItem>
+      <QtyItem>2.00</QtyItem>
+      <PrcItem>1639.00</PrcItem>
+      <MontoItem>3278</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>w818/8</VlrCodigo>
+      </CdgItem>
+      <NmbItem>filtro troop</NmbItem>
+      <QtyItem>2.00</QtyItem>
+      <PrcItem>992.00</PrcItem>
+      <MontoItem>1984</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>130</TpoCodigo>
+        <VlrCodigo>w830/3</VlrCodigo>
+      </CdgItem>
+      <NmbItem>filtro kendall</NmbItem>
+      <QtyItem>2.00</QtyItem>
+      <PrcItem>2101.00</PrcItem>
+      <MontoItem>4202</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>92</FolioRef>
+      <FchRef>2019-04-17</FchRef>
+      <CodRef>3</CodRef>
+      <RazonRef>error monto</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>9</F><FE>2019-04-23</FE><RR>12124094-7</RR><RSR>PATRICIO HUMBERTO SEPULVEDA ZARATE</RSR><MNT>26161</MNT><IT1>protec</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>9</D><H>9</H></RNG><FA>2019-04-23</FA><RSAPK><M>ozKPS6R+RR+vDRYOV74uVUH8iwy9OiJ7ZjzdPAqGN7CQIhaIUWXDFfRLw3n4HAp/EXZdd1d2pwuj7aomNiEdkw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">KJkzK2halZDvCwXAcGWKDccaKny7zSIDoi2UPjgJ8b1M6r/TzFA/gTUwHMZllDQ7Kn4qjp8B3Ju3wASgjG+yGw==</FRMA></CAF><TSTED>2019-04-23T11:37:59</TSTED></DD><FRMT algoritmo="SHA1withRSA">dB7KYpl2FYJmeGUCAvEtFJXsoTUAHdIT/kXUmz/cqg8Y3dRezSs9quVyEqt7BE1foIrTU1KCZ66yGjz8TDFR4A==</FRMT></TED>
+    <TmstFirma>2019-04-23T11:37:59</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-26517">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>wRfVwzdAIL8KAMKImwgE5MEXuXc=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+EH2YSH6Nockgm31fPWaUrHWzp5Enun+PwCJZ2v3Z9oHkESAi/Oo74LpiD8LpXlZlcn77vu6CfEhz
+/riAY/Rw7EnN/XfyD5ih4gr0+79HO/gLaNhcdraYpkHSA2N4ooZwDw2f3rdGH1ozooJ3kVMS8Th3
+iGXSwrlLVo6plLKqxmk=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 73 central VERSION: v20190409 -->
+<Documento ID="MiPE76944108-15916">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>8</Folio>
+        <FchEmis>2019-04-17</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76749562-5</RUTRecep>
+        <RznSocRecep>ALICIA VEGA GODOY, SERVICIO ALIMENTACI�N Y BANQUETER�A E.I.R.L.</RznSocRecep>
+        <GiroRecep>SERVICIO DE LAVADO DE VEHICULOS AUTOMOTO</GiroRecep>
+        <DirRecep>BARSAC 3590   JHON WALL</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>49188</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>9346</IVA>
+        <MntTotal>58534</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>AS760</VlrCodigo>
+      </CdgItem>
+      <NmbItem>LIMPIA INYECT DIESEL</NmbItem>
+      <QtyItem>12.00</QtyItem>
+      <PrcItem>2244.00</PrcItem>
+      <MontoItem>26928</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>AS730</VlrCodigo>
+      </CdgItem>
+      <NmbItem>LIMPIA INYECT BENCINA</NmbItem>
+      <QtyItem>6.00</QtyItem>
+      <PrcItem>2038.00</PrcItem>
+      <MontoItem>12228</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>THU719/3X</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FILTRO HU719/3X</NmbItem>
+      <QtyItem>6.00</QtyItem>
+      <PrcItem>1672.00</PrcItem>
+      <MontoItem>10032</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>77</FolioRef>
+      <FchRef>2019-04-16</FchRef>
+      <CodRef>1</CodRef>
+      <RazonRef>ANULA DOCUMENTO DE LA REFERENCIA</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>8</F><FE>2019-04-17</FE><RR>76749562-5</RR><RSR>ALICIA VEGA GODOY, SERVICIO ALIMENTACI�N</RSR><MNT>58534</MNT><IT1>LIMPIA INYECT DIESEL</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>8</D><H>8</H></RNG><FA>2019-04-17</FA><RSAPK><M>2ODpzJDY84E2uPNaEYTMeJXDee1+ixmEnOKbNsv3KJ+OieDt6PRHpTNhe9I4V/gFmsuSYbDiuIK5x7RDqkTcmQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">HwRLUF6LfYbpJkYQeXkGphosbk+zxsqs8N73cbzGVsYkOWdmVN0F0LJ5k1IXLBR3LDSDRJV8MCX81fmsHRcOdQ==</FRMA></CAF><TSTED>2019-04-17T09:53:39</TSTED></DD><FRMT algoritmo="SHA1withRSA">vjfvDUwJRB+R1MYvKl32xeyPVvkZVji6H/ZdV3j1iRIrLgNLfPEcctmDOcM+BkhbvQF66IGLSOCMRE4o6Wn6Rw==</FRMT></TED>
+    <TmstFirma>2019-04-17T09:53:39</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-15916">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>hqgrYtGr26CVlENAxmvrV+ddsy4=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+jR2ySomyrV0KXDCVXd7T0zNezxDC/oY8dJOe93RvR+TuxtGdDAfgj7GQADCFGbr/Z4MLLwn/L+uP
+BguFXj/H0UueD7yearyPisEeGrxHvYfYwDxYqSijJNDvevxJeJNWPxTV0cb26zPG8SxNhi1OLU2b
+ohak4395Ba4WqdCVKPY=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 73 central VERSION: v20190227 -->
+<Documento ID="MiPE76944108-24059">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>7</Folio>
+        <FchEmis>2019-04-15</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>21448559-1</RUTRecep>
+        <RznSocRecep>JAIME LUIS QUISPE CLAVITEA</RznSocRecep>
+        <GiroRecep>VENTA DE PARTES, PIEZAS Y ACCESORIOS</GiroRecep>
+        <DirRecep>J.V. LASTARRIA 1214-1</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>142238</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>27025</IVA>
+        <MntTotal>169263</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>61</TpoCodigo>
+        <VlrCodigo>88022</VlrCodigo>
+      </CdgItem>
+      <NmbItem>SILICONA + RENOVADOR</NmbItem>
+      <QtyItem>12.00</QtyItem>
+      <PrcItem>3529.00</PrcItem>
+      <MontoItem>42348</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>61</TpoCodigo>
+        <VlrCodigo>880078</VlrCodigo>
+      </CdgItem>
+      <NmbItem>SILICONA KIT</NmbItem>
+      <QtyItem>12.00</QtyItem>
+      <PrcItem>1933.00</PrcItem>
+      <MontoItem>23196</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>AF2033</VlrCodigo>
+      </CdgItem>
+      <NmbItem>MEZCLA PRECISA</NmbItem>
+      <QtyItem>6.00</QtyItem>
+      <PrcItem>4950.00</PrcItem>
+      <MontoItem>29700</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>61</TpoCodigo>
+        <VlrCodigo>88325</VlrCodigo>
+      </CdgItem>
+      <NmbItem>WD40</NmbItem>
+      <QtyItem>4.00</QtyItem>
+      <PrcItem>2782.00</PrcItem>
+      <MontoItem>11128</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>5</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>36</TpoCodigo>
+        <VlrCodigo>5229</VlrCodigo>
+      </CdgItem>
+      <NmbItem>12V 2 CONT DISP TRIFA</NmbItem>
+      <QtyItem>10.00</QtyItem>
+      <PrcItem>214.00</PrcItem>
+      <MontoItem>2140</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>6</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>10105</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PINO AROMA VANILLA</NmbItem>
+      <QtyItem>12.00</QtyItem>
+      <PrcItem>462.00</PrcItem>
+      <MontoItem>5544</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>7</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>10155</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PINO AROMA BLACK ICE</NmbItem>
+      <QtyItem>12.00</QtyItem>
+      <PrcItem>462.00</PrcItem>
+      <MontoItem>5544</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>8</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>17824</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FIBER CAN CARRIBEAN</NmbItem>
+      <QtyItem>8.00</QtyItem>
+      <PrcItem>1311.00</PrcItem>
+      <MontoItem>10488</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>9</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>36</TpoCodigo>
+        <VlrCodigo>1661</VlrCodigo>
+      </CdgItem>
+      <NmbItem>12V H4 TRIFA</NmbItem>
+      <QtyItem>10.00</QtyItem>
+      <PrcItem>1215.00</PrcItem>
+      <MontoItem>12150</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>74</FolioRef>
+      <FchRef>2019-04-15</FchRef>
+      <CodRef>3</CodRef>
+      <RazonRef>error monto</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>7</F><FE>2019-04-15</FE><RR>21448559-1</RR><RSR>JAIME LUIS QUISPE CLAVITEA</RSR><MNT>169263</MNT><IT1>SILICONA + RENOVADOR</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>7</D><H>7</H></RNG><FA>2019-04-15</FA><RSAPK><M>smJCDhYBMnhEv7V+q0Yh7ctiD1pUdzXbAWZk0H0K7gYnbN8+9xisSqQPfY+n4aVEqjsJJp6OZi1RMhL1bzMgyw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">GZaMtpLSl52UpOOfnIcBfTIX0G5crVQgjKYiNKi+8WBWRiDTxhPiiL4uTIvK0gAjliq0QzZ/+1VvrQLKg1my+w==</FRMA></CAF><TSTED>2019-04-15T18:00:10</TSTED></DD><FRMT algoritmo="SHA1withRSA">CrY7Kk5w3+QSatDA7IIF46satHWB1YWX7x+0rgx1cV+BjZkCkMm1/jKX5UR5jhD6QnhcTb2WghfUW8lEzHmzQw==</FRMT></TED>
+    <TmstFirma>2019-04-15T18:00:10</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-24059">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>e8k1ejJkBlfmDRalL+URLfXaKP0=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+kKMjrjhLPRPXZ6+Y6OSFIBeDYK/JlZcuryvS/yICAKLuxaxsg1Mu1IUwlx3Zc8ivUZZK+2ozxBei
+HxvcwzS+TnHIoFqcr/UyLXuxYIn46s2Pns/noUh5s+8bvSJH/YsdbQHXXQzM2mTALdGxj4n6gioa
+Q1lA8jZv/FLovSgiP4w=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 73 central VERSION: v20190227 -->
+<Documento ID="MiPE76944108-21550">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>6</Folio>
+        <FchEmis>2019-04-13</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>6415733-7</RUTRecep>
+        <RznSocRecep>NELLY TERESA ZAVALA ROJAS</RznSocRecep>
+        <GiroRecep>VENTA DE PARTES, PIEZAS Y ACCESORIOS</GiroRecep>
+        <DirRecep>LASTARRIA 1090</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>63388</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>12044</IVA>
+        <MntTotal>75432</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>2756</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Bujia NGK BKR6E</NmbItem>
+      <QtyItem>20.00</QtyItem>
+      <PrcItem>798.00</PrcItem>
+      <MontoItem>15960</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>223</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Bujia NGK BPR5EFS</NmbItem>
+      <QtyItem>20.00</QtyItem>
+      <PrcItem>899.00</PrcItem>
+      <MontoItem>17980</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>A5400</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Prestone liquido freno</NmbItem>
+      <QtyItem>24.00</QtyItem>
+      <PrcItem>1227.00</PrcItem>
+      <MontoItem>29448</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>68</FolioRef>
+      <FchRef>2019-04-13</FchRef>
+      <CodRef>1</CodRef>
+      <RazonRef>ANULA DOCUMENTO DE LA REFERENCIA</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>6</F><FE>2019-04-13</FE><RR>6415733-7</RR><RSR>NELLY TERESA ZAVALA ROJAS</RSR><MNT>75432</MNT><IT1>Bujia NGK BKR6E</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>6</D><H>6</H></RNG><FA>2019-04-13</FA><RSAPK><M>ofHW8pmWNal6qwryaLp5av8yC0LFT1zgmmK5fo2+EBedDfXyC5nJk6dhm/3qdsewc5xd5B1lncikQNHAzj3txw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">gd/ja+LGylPmH5btNhFh3xYy6cQy3kTY78IAxAHRt2jmRYV04eDjwCMlnbTs1wVdJsUEmcTyEe4e3V+OpYwk3Q==</FRMA></CAF><TSTED>2019-04-13T13:51:15</TSTED></DD><FRMT algoritmo="SHA1withRSA">EKDSaNU6/DXsk/rlMPUSYP9UTXlAQqgpYKEixbIhezSrp+1k4xFa1wHVlEDDUE9RM2sR2ubQq/unG2GEqN4eFw==</FRMT></TED>
+    <TmstFirma>2019-04-13T13:51:15</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-21550">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>GUAcQbAH8UfM4+NxmZ10cv2vJKc=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+OxIdALAfja4wAcwDIqNBtSMAsP6TXgrmlXvQVQU5PfKehVe6Ow7v3YKaYmvYlmkNILxnLQQmum0h
+549UIoWhCEN7ImUSqNus9eTmOuVv0nQ2KW5fUHh5GrgHJK4tE7Lyfjd+jVKhKpILwZVLuoDydN4i
+ICWyRl71Wh+kJXZ0CYo=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 73 central VERSION: v20190227 -->
+<Documento ID="MiPE76944108-2709">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>5</Folio>
+        <FchEmis>2019-04-12</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>5483206-0</RUTRecep>
+        <RznSocRecep>JUANA EUSEBIA TRONCOSO SANCHEZ</RznSocRecep>
+        <GiroRecep>VENTA DE PARTES, PIEZAS Y ACCESORIOS</GiroRecep>
+        <DirRecep>ARAUCANOS 865   ZAPAHUIRA II</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>37560</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>7136</IVA>
+        <MntTotal>44696</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>21</TpoCodigo>
+        <VlrCodigo>PC1</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PROTEC</NmbItem>
+      <QtyItem>30.00</QtyItem>
+      <PrcItem>1252.00</PrcItem>
+      <MontoItem>37560</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>48</FolioRef>
+      <FchRef>2019-04-11</FchRef>
+      <CodRef>1</CodRef>
+      <RazonRef>ANULA DOCUMENTO DE LA REFERENCIA</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>5</F><FE>2019-04-12</FE><RR>5483206-0</RR><RSR>JUANA EUSEBIA TRONCOSO SANCHEZ</RSR><MNT>44696</MNT><IT1>PROTEC</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>5</D><H>5</H></RNG><FA>2019-04-12</FA><RSAPK><M>4MTWQFQ82EeaBGIpm+Les38JfLHdN62WDmaFwAxDjBfVrui7Jle/5ZsxAS3RNh7bAAPp85iDQIK/wGBFwX1lbw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">HiG/LJsXRfOTouKixpGAAegH13twMq9OKjt7J6g8wQANGIZh4VXQFKVVUHBgnVCmHImZpPlbmzzAw5JbnGLH/w==</FRMA></CAF><TSTED>2019-04-12T10:36:46</TSTED></DD><FRMT algoritmo="SHA1withRSA">qT8p72/t67FTnb6X6ult0rbp45owVkmYDSFIIPJ3eJGEnc+F3Elm2WeP4O6Z0zw/Nyy5uo9MviTJprTVpPm1hw==</FRMT></TED>
+    <TmstFirma>2019-04-12T10:36:46</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-2709">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>tZOBjYdK6AYNNBs0gAQ/SeZEtUI=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+eSgqTxvPQJIhW/JL6dO3esMycp1NdGWCqhWYLtm/O9IH1dUmmJbhBZJVOtrKbZI1i+6lzjTsMLR7
+hgdu4xdpDH87mtmOj/gli1uA/vwluY9jmtOdBYm6HfL6QKkfwy88r2HRAr1XMkLQ42VxJvPFGmEY
+tNHLOGbrnl42Jrn0Qgg=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 71 central VERSION: v20190227 -->
+<Documento ID="MiPE76944108-26523">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>4</Folio>
+        <FchEmis>2019-04-12</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76559902-4</RUTRecep>
+        <RznSocRecep>RICHARD MAMANI  ELECTRICIDAD  INSTRUMENTACION  E.I.R.L.</RznSocRecep>
+        <GiroRecep>MANTENIMIENTO Y REPARACION DE VEHICULOS</GiroRecep>
+        <DirRecep>SANTIAGO FLORES PARCELA20 395   CERRO SOMBRERO</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>17650</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>3354</IVA>
+        <MntTotal>21004</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>43</TpoCodigo>
+        <VlrCodigo>773001</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Limpia contacto</NmbItem>
+      <QtyItem>2.00</QtyItem>
+      <PrcItem>1690.00</PrcItem>
+      <MontoItem>3380</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>tw830/3</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Filtro troop w830/3</NmbItem>
+      <QtyItem>4.00</QtyItem>
+      <PrcItem>2300.00</PrcItem>
+      <MontoItem>9200</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>55</TpoCodigo>
+        <VlrCodigo>1500-20</VlrCodigo>
+      </CdgItem>
+      <NmbItem>huincha</NmbItem>
+      <QtyItem>3.00</QtyItem>
+      <PrcItem>1690.00</PrcItem>
+      <MontoItem>5070</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>54</FolioRef>
+      <FchRef>2019-04-11</FchRef>
+      <CodRef>1</CodRef>
+      <RazonRef>ANULA DOCUMENTO DE LA REFERENCIA</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>4</F><FE>2019-04-12</FE><RR>76559902-4</RR><RSR>RICHARD MAMANI  ELECTRICIDAD  INSTRUMENT</RSR><MNT>21004</MNT><IT1>Limpia contacto</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>4</D><H>4</H></RNG><FA>2019-04-12</FA><RSAPK><M>ophzvUzQlV9onH1018riYh8NpbTSWRgEjFkQESMp5FhmNqGF0r9/rQGZBI+7pWtwziDPu6DsG53YbfrcMPnkeQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">I8oynj8d5dEABDGYQhTv5P3TGX5IGwfK788sb5ILziw8YSK1eGU/hiwnDNVKZfqaKGsOBU/zQNZ5kVkM+t9Y1g==</FRMA></CAF><TSTED>2019-04-12T09:27:46</TSTED></DD><FRMT algoritmo="SHA1withRSA">H9SFtXl2iAbjtAKcLU4n+Bj/x/KwY86wF7vqZ4aZyFFQK5xrrldAT0MSU8gJHqFvXB46HOPmZV7Xwu2TxP5ncw==</FRMT></TED>
+    <TmstFirma>2019-04-12T09:27:46</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-26523">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>yhh1lP4u0h1p8NcIR0F6D+ScNfw=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+wmzjsKRkrG6h/CbHbXgfdfLaMYqbC+doenwT+3bRddaO82REu6ZrOIo/SmMMECE+N/pHOxrcaTKE
+fqdJsYB0Z1Gbb9/0uBKyLrfCxEDa0ePiNsj/QhMJzpNEosVjrYTJBv7hHU1hgc/JlNDJXWUbClyd
+T3SzZuRuNgz+2LC6m+g=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 71 central VERSION: v20190227 -->
+<Documento ID="MiPE76944108-25288">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>3</Folio>
+        <FchEmis>2019-04-10</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>23278953-0</RUTRecep>
+        <RznSocRecep>OCTAVIO AMONES AGUILAR</RznSocRecep>
+        <GiroRecep>MANTENIMIENTO Y REPARACION DE VEHICULOS</GiroRecep>
+        <DirRecep>Capitan Avalos 2506</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>86362</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>16409</IVA>
+        <MntTotal>102771</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>21</TpoCodigo>
+        <VlrCodigo>LVX1L</VlrCodigo>
+      </CdgItem>
+      <NmbItem>LIMPIA VIDRIOS</NmbItem>
+      <QtyItem>1.00</QtyItem>
+      <PrcItem>924.00</PrcItem>
+      <MontoItem>924</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>10189</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PINO AROMA AUTO NUEVO</NmbItem>
+      <QtyItem>24.00</QtyItem>
+      <PrcItem>462.00</PrcItem>
+      <MontoItem>11088</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>AF2033</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PRESTONE MEZCLA PRECISA</NmbItem>
+      <QtyItem>6.00</QtyItem>
+      <PrcItem>4950.00</PrcItem>
+      <MontoItem>29700</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>AS105Y</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PRESTONE LIMPIA RADIADOR</NmbItem>
+      <QtyItem>2.00</QtyItem>
+      <PrcItem>1580.00</PrcItem>
+      <MontoItem>3160</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>5</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>27</TpoCodigo>
+        <VlrCodigo>020</VlrCodigo>
+      </CdgItem>
+      <NmbItem>CERA PASTA MOTORLIFE</NmbItem>
+      <QtyItem>6.00</QtyItem>
+      <PrcItem>1471.00</PrcItem>
+      <MontoItem>8826</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>6</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>17855</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FIBER CAN BLACK ICE</NmbItem>
+      <QtyItem>4.00</QtyItem>
+      <PrcItem>1311.00</PrcItem>
+      <MontoItem>5244</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>7</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>10155</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PINO AROMA BLACK ICE</NmbItem>
+      <QtyItem>24.00</QtyItem>
+      <PrcItem>462.00</PrcItem>
+      <MontoItem>11088</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>8</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>10290</VlrCodigo>
+      </CdgItem>
+      <NmbItem>PINO AROMA CUERO</NmbItem>
+      <QtyItem>24.00</QtyItem>
+      <PrcItem>462.00</PrcItem>
+      <MontoItem>11088</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>9</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>39</TpoCodigo>
+        <VlrCodigo>17889</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FIBER CAN AUTO NUEVO</NmbItem>
+      <QtyItem>4.00</QtyItem>
+      <PrcItem>1311.00</PrcItem>
+      <MontoItem>5244</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>34</FolioRef>
+      <FchRef>2019-04-06</FchRef>
+      <CodRef>3</CodRef>
+      <RazonRef>ERROR MONTO</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>3</F><FE>2019-04-10</FE><RR>23278953-0</RR><RSR>OCTAVIO AMONES AGUILAR</RSR><MNT>102771</MNT><IT1>LIMPIA VIDRIOS</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>3</D><H>3</H></RNG><FA>2019-04-10</FA><RSAPK><M>3MkerGUxweRdYSSxqj4FSgwSaTy39WSZetgYkxBkChQDkE8RVKC1X2A15VkgAel3gq/gq+trRL05NGvAx2tnBw==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">mWgKoIo+U108pqLm6TXIYLqcM0eYb69t+LrFx8HixrFI2+FdyLDPDrzd/R99w4nYAkwn7OzVLSFmX6lSTqEzVg==</FRMA></CAF><TSTED>2019-04-10T10:13:03</TSTED></DD><FRMT algoritmo="SHA1withRSA">qpMLYX+LrGNtZ7HXogd9d1VCVdec7qCET7PYecui/YGn5cgH/4xjc/A+ICFWL0Z+DSNgSmeacKFuUGp5NwpT3Q==</FRMT></TED>
+    <TmstFirma>2019-04-10T10:13:03</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-25288">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>ck/3qInlr1vnPsjE7s7MFrphk8U=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+H/gv5dkPBh2QP6Iiq+SPkqS0Em1jFG9TpZGD71ZR7q7j6p4eEvx0mi5OufEpuaYRIoTM+ZM0eabG
+kTHf9YT2+B+EJCeQ33abUTo0oG4B3CMNs+R0gM6Jc3MAbuR7jdXm9gc5aEP9MSdvYB0KnYsl/pHY
+7kTJNnRZFFAnS9TkesA=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 71 central VERSION: v20190227 -->
+<Documento ID="MiPE76944108-22716">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>2</Folio>
+        <FchEmis>2019-04-06</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>96702350-7</RUTRecep>
+        <RznSocRecep>TRANSPORTES LINEA DOS S A</RznSocRecep>
+        <GiroRecep>VENTA AL POR MENOR DE OTROS PRODUCTOS EN</GiroRecep>
+        <DirRecep>AV LOA  2741</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>90620</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>17218</IVA>
+        <MntTotal>107838</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>21</TpoCodigo>
+        <VlrCodigo>AVX5L</VlrCodigo>
+      </CdgItem>
+      <NmbItem>AGUA VERDE</NmbItem>
+      <QtyItem>60.00</QtyItem>
+      <PrcItem>882.00</PrcItem>
+      <MontoItem>52920</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>2</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>36</TpoCodigo>
+        <VlrCodigo>5238</VlrCodigo>
+      </CdgItem>
+      <NmbItem>AMPOLLETA 24V 21/5W</NmbItem>
+      <QtyItem>50.00</QtyItem>
+      <PrcItem>218.00</PrcItem>
+      <MontoItem>10900</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>3</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>36</TpoCodigo>
+        <VlrCodigo>6671</VlrCodigo>
+      </CdgItem>
+      <NmbItem>AMPOLLETA 12V 21W</NmbItem>
+      <QtyItem>50.00</QtyItem>
+      <PrcItem>143.00</PrcItem>
+      <MontoItem>7150</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>4</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>115</TpoCodigo>
+        <VlrCodigo>FP15</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FUSIBLE PALETA 15 AMP</NmbItem>
+      <QtyItem>50.00</QtyItem>
+      <PrcItem>25.00</PrcItem>
+      <MontoItem>1250</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>5</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>115</TpoCodigo>
+        <VlrCodigo>FP20</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FUSIBLE PALETA 20 AMP</NmbItem>
+      <QtyItem>50.00</QtyItem>
+      <PrcItem>42.00</PrcItem>
+      <MontoItem>2100</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>6</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>115</TpoCodigo>
+        <VlrCodigo>FP30</VlrCodigo>
+      </CdgItem>
+      <NmbItem>FUSIBLE PALETA 30 AMP</NmbItem>
+      <QtyItem>50.00</QtyItem>
+      <PrcItem>42.00</PrcItem>
+      <MontoItem>2100</MontoItem>
+    </Detalle>
+    <Detalle>
+      <NroLinDet>7</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>55</TpoCodigo>
+        <VlrCodigo>1500-20</VlrCodigo>
+      </CdgItem>
+      <NmbItem>HUINCHA AISLADORA 3 M</NmbItem>
+      <QtyItem>10.00</QtyItem>
+      <PrcItem>1420.00</PrcItem>
+      <MontoItem>14200</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>30</FolioRef>
+      <FchRef>2019-04-05</FchRef>
+      <CodRef>1</CodRef>
+      <RazonRef>ANULA DOCUMENTO DE LA REFERENCIA</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>2</F><FE>2019-04-06</FE><RR>96702350-7</RR><RSR>TRANSPORTES LINEA DOS S A</RSR><MNT>107838</MNT><IT1>AGUA VERDE</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>2</D><H>2</H></RNG><FA>2019-04-06</FA><RSAPK><M>zi746UlncOg6/nnGMaSqlI7k0oyKvjd68AL5i3cvkgja1CbWZAXBMXQ/WJR894grwWFC8mJsuam1+N6UiE1SXQ==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">ZyBiRRO8ApkYsva4bDngKUOMHGO+tkb29hIdn02S4Q3GjpIuKxGyRK8/qBslOr5zuPqu9c10xrpkerVJv09x9A==</FRMA></CAF><TSTED>2019-04-06T10:28:44</TSTED></DD><FRMT algoritmo="SHA1withRSA">Zcp1pAR6fkTwDjfqlGwKIHjQh+7Q/0Olo256JhUUqruT0tomqJqMFuCr+jw5SGwJf421RXG+4xP4pBMYX2F+jQ==</FRMT></TED>
+    <TmstFirma>2019-04-06T10:28:44</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-22716">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>cwM+FILMeE3nWinhcpOPfDE5cTU=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+vEbzbJLriz89Pp9L5Cz0Pr/HmIL5EFfGwU5Qzt8yC9tWZAp3+FdDSeSR0FrG/zhUtsrxWVwU69An
+enHdqLyx9378XDaly8ozZDgBS4OByxnp9AWXflz0NTSU0m42zHQnEzWTKxwX9fdIe2p24zV8pTNH
+M78lp5i7PMKhpcEM3EE=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+<DTE version="1.0" >
+  <!-- O Win32 Chrome 71 central VERSION: v20190227 -->
+<Documento ID="MiPE76944108-7399">
+    <Encabezado>
+      <IdDoc>
+        <TipoDTE>61</TipoDTE>
+        <Folio>1</Folio>
+        <FchEmis>2019-04-03</FchEmis>
+      </IdDoc>
+      <Emisor>
+        <RUTEmisor>76944108-5</RUTEmisor>
+        <RznSoc>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RznSoc>
+        <GiroEmis>IMP, EXP, DISTRIBUCION,  ACCESORIOS, PARTES Y PIEZAS AUTOMOTRRICES</GiroEmis>
+        <Telefono>0 582290883</Telefono>
+        <CorreoEmisor>OFICINA@DISCAR.CL</CorreoEmisor>
+        <Acteco>453000</Acteco>
+        <CdgSIISucur>82967405</CdgSIISucur>
+        <DirOrigen>BARROS ARANA 3152   ZONA INDUSTRIAL</DirOrigen>
+        <CmnaOrigen>ARICA</CmnaOrigen>
+        <CiudadOrigen>ARICA</CiudadOrigen>
+      </Emisor>
+      <Receptor>
+        <RUTRecep>76749562-5</RUTRecep>
+        <RznSocRecep>ALICIA VEGA GODOY, SERVICIO ALIMENTACI�N Y BANQUETER�A E.I.R.L.</RznSocRecep>
+        <GiroRecep>SERVICIO DE LAVADO DE VEHICULOS AUTOMOTO</GiroRecep>
+        <DirRecep>BARSAC 3590   JHON WALL</DirRecep>
+        <CmnaRecep>ARICA</CmnaRecep>
+        <CiudadRecep>ARICA</CiudadRecep>
+      </Receptor>
+      <Totales>
+        <MntNeto>7482</MntNeto>
+        <TasaIVA>19.00</TasaIVA>
+        <IVA>1422</IVA>
+        <MntTotal>8904</MntTotal>
+      </Totales>
+    </Encabezado>
+    <Detalle>
+      <NroLinDet>1</NroLinDet>
+      <CdgItem>
+        <TpoCodigo>36</TpoCodigo>
+        <VlrCodigo>1661</VlrCodigo>
+      </CdgItem>
+      <NmbItem>Ampolleta 12VH4 60/55</NmbItem>
+      <QtyItem>6.00</QtyItem>
+      <PrcItem>1247.00</PrcItem>
+      <MontoItem>7482</MontoItem>
+    </Detalle>
+    <Referencia>
+      <NroLinRef>1</NroLinRef>
+      <TpoDocRef>33</TpoDocRef>
+      <FolioRef>15</FolioRef>
+      <FchRef>2019-04-03</FchRef>
+      <CodRef>3</CodRef>
+      <RazonRef>No hay Stock</RazonRef>
+    </Referencia>
+<TED version="1.0"><DD><RE>76944108-5</RE><TD>61</TD><F>1</F><FE>2019-04-03</FE><RR>76749562-5</RR><RSR>ALICIA VEGA GODOY, SERVICIO ALIMENTACI�N</RSR><MNT>8904</MNT><IT1>Ampolleta 12VH4 60/55</IT1><CAF version="1.0"><DA><RE>76944108-5</RE><RS>DISTRIBUIDORA E INVERSIONES DISCAR SPA</RS><TD>61</TD><RNG><D>1</D><H>1</H></RNG><FA>2019-04-03</FA><RSAPK><M>v08NVCK8CPfbhKsZtcXApIrVrYjFBwbVz/pKFRwHf22DTSitY81dUxp5YQQmu/fHTNILPjX9HGljbfUvJC6p3Q==</M><E>Aw==</E></RSAPK><IDK>300</IDK></DA><FRMA algoritmo="SHA1withRSA">mIHs2fsLzGoW8CsxLpwa8E9+6DuLlab9iFqs3i0YJbNg5vqZm+RPyCxdnLIh9dq+o3F+UJ6RE3HoBBWxZoSy+g==</FRMA></CAF><TSTED>2019-04-03T10:44:24</TSTED></DD><FRMT algoritmo="SHA1withRSA">niHsof1R24ryxwuV4rDsV6aIT/m2GDgp59eerPejPwpAcBA+cMvdh7ic2RE+xVqkcDwF66VIuXd89C1Gag7Q5w==</FRMT></TED>
+    <TmstFirma>2019-04-03T10:44:24</TmstFirma>
+
+  </Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#MiPE76944108-7399">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>XyW4Rx08mnDsqRwKWnIg6o3q+1s=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+QQyAm2jnaVns3e/6z8pM3NS3tqUPz4U/c390ST4QQodivyvyo49Aj5ANrXdARW4mB8uuPqbtFsde
+YPIFloHpjLyW4vXIv3C9nPXTH9qNNx6V2RpDDDwCLw//Ops+O2GjqLifsY1fIfe6oWd63V7Nr5bV
+XZwgv0dcPT2pHfCjZbk=
+</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>
+7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP/QoGZOkap6TX
+my06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+bwWtPMKb46sWg
+319VMhUp76tXOFL+voE=
+</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+<X509Data>
+<X509Certificate>
+MIIGTDCCBTSgAwIBAgIKMSJdYgAAAA11ajANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0xOTAzMjYxNTM4MDJaFw0yMjAzMjUxNTM4MDJa
+MIHNMQswCQYDVQQGEwJDTDEmMCQGA1UECAwdUkVHScOTTiBERSBBUklDQSBZIFBBUklOQUNPVEEx
+DjAMBgNVBAcTBUFyaWNhMS8wLQYDVQQKEyZESVNUUklCVUlET1JBIEUgSU5WRVJTSU9ORVMgRElT
+Q0FSIFNQQTESMBAGA1UECxMJQ09NRVJDSUFMMR8wHQYDVQQDExZDQVJMT1MgQkxBUyBMRU1PIENI
+QU5HMSAwHgYJKoZIhvcNAQkBFhFvZmljaW5hQGRpc2Nhci5jbDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA7xhV8qiPQEHUx7ztLSqAKNMq0OAH6O6uV7DQNtUaHcuBwTnrYWW9el2omAbqFgFP
+/QoGZOkap6TXmy06Agojz6jlSjAwUKdyXIh/0HuDttgVjZ+lO5VOD7Y5z9D6QGUJVHK3PV5m6z+b
+wWtPMKb46sWg319VMhUp76tXOFL+voECAwEAAaOCAqkwggKlMIIBTwYDVR0gBIIBRjCCAUIwggE+
+BggrBgEEAcNSBTCCATAwLQYIKwYBBQUHAgEWIWh0dHA6Ly93d3cuZS1jZXJ0Y2hpbGUuY2wvQ1BT
+Lmh0bTCB/gYIKwYBBQUHAgIwgfEege4ARQBsACAAcgBlAHMAcABvAG4AZABlAHIAIABlAHMAdABl
+ACAAZgBvAHIAbQB1AGwAYQByAGkAbwAgAGUAcwAgAHUAbgAgAHIAZQBxAHUAaQBzAGkAdABvACAA
+aQBuAGQAaQBzAHAAZQBuAHMAYQBiAGwAZQAgAHAAYQByAGEAIABkAGEAcgAgAGkAbgBpAGMAaQBv
+ACAAYQBsACAAcAByAG8AYwBlAHMAbwAgAGQAZQAgAGMAZQByAHQAaQBmAGkAYwBhAGMAaQDzAG4A
+LgAgAFAAbwBzAHQAZQByAGkAbwByAG0AZQBuAHQAZQAsMB0GA1UdDgQWBBTbzTSNaiW9SPO3Otqs
+/OU9x7tBMjALBgNVHQ8EBAMCBPAwIwYDVR0RBBwwGqAYBggrBgEEAcEBAaAMFgowOTg4Mjc3MS00
+MB8GA1UdIwQYMBaAFHjhPp/SErN6PI3NMA5Ts0MpB7NVMD4GA1UdHwQ3MDUwM6AxoC+GLWh0dHA6
+Ly9jcmwuZS1jZXJ0Y2hpbGUuY2wvZWNlcnRjaGlsZWNhRkVTLmNybDA6BggrBgEFBQcBAQQuMCww
+KgYIKwYBBQUHMAGGHmh0dHA6Ly9vY3NwLmVjZXJ0Y2hpbGUuY2wvb2NzcDA9BgkrBgEEAYI3FQcE
+MDAuBiYrBgEEAYI3FQiC3IMvhZOMZoXVnReC4twnge/sPGGBy54UhqiCWAIBZAIBBDAjBgNVHRIE
+HDAaoBgGCCsGAQQBwQECoAwWCjk2OTI4MTgwLTUwDQYJKoZIhvcNAQEFBQADggEBAJo4VRDESRnz
+k3za+Y6BcKYZxzvNRz7N1NxZ5nTiZN31U8NKGGEaWe5jAFq/Prvlv2Q8PCjc1VxHblhf4sUbhHzy
+jQf0lwSYZRxLkWOsYiEmUp9FT+Z6ydZqSy9Pr197QdQWj6ftC3YhH8hNh7iHlJekTBIv6oWwC4GI
+ngYFKImZlQSWXMNraMjyvjjUpO4RJLa+4yTTkLeya2NtS9Smz3RkGTP8/gMuqcfcP0u6iJoNtF5S
+WsxAz1ymoDVWguYfeQfLSjfiioBl3xCI1ufvOSU9GZLL/zeK+BH79Xu9ouF1bdAfSBRuybo9rpq5
+OM+FmasPbsTjJd4LEZFB0SWClB8=
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></DTE>
+</SetDTE>

@@ -1,0 +1,2794 @@
+[
+	{
+		"FCODIGO" : "001",
+		"LINEA" : "001",
+		"FDESCRIPCION" : "LUBRICENTRO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "001",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO DE AIRE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "001",
+		"LINEA" : "203",
+		"FDESCRIPCION" : "001",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "001",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "SILICONA+CERA SPRAY",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "001",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "ATORNILLADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "002",
+		"LINEA" : "001",
+		"FDESCRIPCION" : "SELLO BRONCE TAZA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "002",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO DE PETROLEO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "002",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "CERA SPRAY",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "002",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "ALICATE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00205",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CRUCETA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00206",
+		"LINEA" : "00008",
+		"FDESCRIPCION" : "CRUCETA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00207",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "SILICONA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00209",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "ACEITE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00211",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "RE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00212",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "RESINA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00213",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "POLIETILENO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00214",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "POLIETILENO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00215",
+		"LINEA" : "00010",
+		"FDESCRIPCION" : "ACEITE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00216",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ACEITE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00218",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BATERIAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00219",
+		"LINEA" : "00011",
+		"FDESCRIPCION" : "BATERIAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00220",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "MOTOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00221",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "FILTROS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00222",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "PULOM",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00223",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ORING",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00224",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "INYECCION",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00225",
+		"LINEA" : "00013",
+		"FDESCRIPCION" : "A",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00226",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "MASILLA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00227",
+		"LINEA" : "00015",
+		"FDESCRIPCION" : "LIQUIDO FRENOS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00228",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "PULMON",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00229",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "UNI",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00229",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "0",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00231",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "AROMATIZADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00232",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "FRENO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00233",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00235",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "0",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00236",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "ARRANQUE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00237",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CORREAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00238",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "EMBREGUE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00239",
+		"LINEA" : "00013",
+		"FDESCRIPCION" : "0",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00240",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "00209",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00241",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "LUBRICANTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00242",
+		"LINEA" : "00013",
+		"FDESCRIPCION" : "FOCO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00243",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "ELECTRICO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00244",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "64",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00245",
+		"LINEA" : "00013",
+		"FDESCRIPCION" : "27",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00246",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO AIRE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00247",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO ACEITE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00248",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "PULMON SUSPENCION",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00249",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "REMOLQUE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00250",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO PETROLEO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00251",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "DISCO FRENO ",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00252",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "PASTILLA FRENO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00253",
+		"LINEA" : "001",
+		"FDESCRIPCION" : "CUPPER GASKET",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00254",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CORREA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00255",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CAJA CAMBIO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00256",
+		"LINEA" : "00019",
+		"FDESCRIPCION" : "CAJA REGULADORA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00257",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "LLANTAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00258",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO HIDRAULICO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00259",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO AGUA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00260",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO COMBUSTIBLE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00261",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "PULMON AIRE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00262",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "DEPOSITO AGUA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00263",
+		"LINEA" : "00019",
+		"FDESCRIPCION" : "SOLENOIDE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00264",
+		"LINEA" : "00020",
+		"FDESCRIPCION" : "TENSOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00265",
+		"LINEA" : "001",
+		"FDESCRIPCION" : "ADITIVO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00266",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "ANTICONGELANTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00267",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BOMBA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00268",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TAMBOR FRENO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00269",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "KIT EMBRAGUE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00270",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "AMPOLLETA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00271",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "DEPOSITO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00272",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CONO SINC",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00273",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BRONCES",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00274",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "AMORTIGUADOR ",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00275",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BOMBA HIDRAULICA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00276",
+		"LINEA" : "00020",
+		"FDESCRIPCION" : "GUARDAFANGO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00277",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "PNIO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00278",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "PINO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00279",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO COMB.",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00280",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO RACOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00281",
+		"LINEA" : "00016",
+		"FDESCRIPCION" : "FFFFF",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00282",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "DISCO FRENO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00283",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "CORREA RATCHET",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00284",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "ABRAZADERA TURBO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00285",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO ACEITE ",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00286",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "INFLAFORS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00287",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "INFLADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00288",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "ACERO LIQU.",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00289",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO  ACEITE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00290",
+		"LINEA" : "00020",
+		"FDESCRIPCION" : "PUENTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00291",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TAPA RUEDA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00292",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "ADBLUE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00293",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "SERVO ",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00294",
+		"LINEA" : "00013",
+		"FDESCRIPCION" : "123",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00295",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "SERVO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00296",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "PRENSA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00297",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TKL",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00298",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "CARCAZA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00299",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "POMO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "003",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO DE ACEITE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00300",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "REFRIGERANTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00301",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "REFRIGERANATE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00302",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "LIQUIDOS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00303",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "UNION",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00304",
+		"LINEA" : "001",
+		"FDESCRIPCION" : " ACEITE MOTOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00305",
+		"LINEA" : "00021",
+		"FDESCRIPCION" : "REPARO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00306",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "GOMA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00307",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "RETEN",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00308",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "COMPRESOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00309",
+		"LINEA" : "001",
+		"FDESCRIPCION" : "ANTICONGELATE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00310",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FRENO Z CAM",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00311",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "PERTICA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00312",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BASE FILTROS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00313",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "LLAVE SACA FILTRO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00314",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BUJE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00315",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TAPAS ",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00316",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TENSORES",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00317",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "ASPA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00318",
+		"LINEA" : "00020",
+		"FDESCRIPCION" : "BALANCIN",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00319",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TUBO FLEXIBLE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00320",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "EPOX",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00321",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "REP",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00322",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "EMP.",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00323",
+		"LINEA" : "00019",
+		"FDESCRIPCION" : "TACOGRAFO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00324",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "PLUMILLA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00325",
+		"LINEA" : "00021",
+		"FDESCRIPCION" : "LIMPIA INYECTOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00326",
+		"LINEA" : "00021",
+		"FDESCRIPCION" : "CORTA HUMO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00327",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "RODAMIENTO ",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00328",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "ANILLOS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00329",
+		"LINEA" : "001",
+		"FDESCRIPCION" : "LIQUIDO FRENO ",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00330",
+		"LINEA" : "00016",
+		"FDESCRIPCION" : "UN",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00331",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "LUBRICADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00332",
+		"LINEA" : "SER",
+		"FDESCRIPCION" : "INTSTALACION",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00333",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "GOLILLA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00334",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BASE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00335",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "SECADOR AIRE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00336",
+		"LINEA" : "00019",
+		"FDESCRIPCION" : "RELAY",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00337",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "IUN",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00338",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "METALES",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00339",
+		"LINEA" : "00019",
+		"FDESCRIPCION" : "APOLLETA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00340",
+		"LINEA" : "00019",
+		"FDESCRIPCION" : "LIMPIA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00341",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "PASADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00342",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TRIDIODP",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00343",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "BUZO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00344",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "PARABRISAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00345",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CARDAN",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00346",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CARTER",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00347",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "SOPORTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00348",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "MOTOR ",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00349",
+		"LINEA" : "00017",
+		"FDESCRIPCION" : "PUL",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00350",
+		"LINEA" : "00019",
+		"FDESCRIPCION" : "FLASH",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00351",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "LIMPIADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00352",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "EJE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00353",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ADHESIVO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "00354",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "00",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "004",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO DE BENCINA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "005",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BOMBA BENCINA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "006",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "DISCO EMBRAGUE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ABR",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ABRAZADERA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ABR",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "ABRAZADERA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ACE",
+		"LINEA" : "001",
+		"FDESCRIPCION" : "ACEITES",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ACE",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ACERO LIQUIDO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ACO",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ACOPLE RAPIDO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ADH",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "ADHESIVOS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ADI",
+		"LINEA" : "001",
+		"FDESCRIPCION" : "ADITIVOS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "AGU",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "AGUA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ALA",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ALARMA RETROCESO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ALI",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ALICATE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ALT",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "ALTERNADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "AMA",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "AMARRA PLASTICA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "AMA",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "AMARRAS PLASTICAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "AMO",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "AMORTIGUADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "AMP",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "AMPOLLETAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ANI",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ANILLERA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ANI",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "ANILLERA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ANT",
+		"LINEA" : "001",
+		"FDESCRIPCION" : "ATICONGELANTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ANT",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "ANTIOXIDO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ARO",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "AROMATIZADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ASE",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ASENTADORA DE VALVULA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ASP",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "ASP",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "BAL",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "BALIZA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "BAT",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "BATERIA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "BOB",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BOBINA ENCENDIDO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "BOC",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BOCINA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "BOC",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "BOCINAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "BOM",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BOMBA CEBADORA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "BON",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BOMBA AGUA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "BOQ",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "BOQUILLA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "BOQ",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "BOQUILLA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "BUJ",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "BUJIA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "BUJ",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "BUJIAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CAB",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CABLE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CAB",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "CABLE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CAR",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "CARBON",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CAR",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "CARGA BATERIA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CAR",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "UNION CARDANICA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CAT",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CATALITICOS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CEN",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "CENTRALIZADO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CER",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CERCHA MOTOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CER",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "CERA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CER",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "CERA CREMA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CHA",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CHAPA CONTACTO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CHA",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "CHAPA CONTACTO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CHA",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "CHALECO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CHI",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "CHICHARRA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CHI",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "CHICHARRA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CIN",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "CINTA ADHESIVA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CIN",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "CINTA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CLI",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "CLIP TAPIZAR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CLI",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "CLIP",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "COL",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "COLA ESCAPE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "COM",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "COMPRESIMETRO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CON",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CONDENSADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CON",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "CONTACTOS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "COR",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "CORTA CORRIENTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CRU",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "LLAVE CRUZ",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CUC",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "CUCHILLO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CUE",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "CUERO DE ANTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "CUL",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "CULATA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "DAD",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "DADO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "DAD",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "DADO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "DEG",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "DESENGRASANTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "DEN",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "DENSIMETRO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "DEP",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "DEPOSITO RADIADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "DES",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "DESTORNILLADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "DES",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "DESODORANTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "DES",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "DESTORNILLADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "DET",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "DETERGENTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "DPR",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "DEPRESOR ALTERNADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ELE",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ELECTRICOS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ELE",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "ELECTRICOS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "EMB",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ENGRASADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "EMP",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "EMPAQUETADURA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ENC",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ENCHUFE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ENG",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ENGANCHE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ENG",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "ENGRASADORA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "EQU",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "EQUIPO PINTURA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ESP",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ESPEJO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ESP",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "ESPONJA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "EXT",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "EXTENSION MAGNETICA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "EXT",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "EXTENSION",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "FAR",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "FAROL",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "FEE",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "FEELER",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "FIJ",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "FIJADOR BATERIA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "FIL",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FILTRO GAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "FLE",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "FLEXIBLE ",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "FUE",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "FUELLE HOMOCINETICA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "FUS",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "FUSIBLE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "GAT",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "GATA HIDRAULICA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "GOL",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "IGILILLA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "GOL",
+		"LINEA" : "202",
+		"FDESCRIPCION" : "GOLILLAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "GRA",
+		"LINEA" : "001",
+		"FDESCRIPCION" : "GRASAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "GRA",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "GRASA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "HER",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "HERRAMIENTA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "HOJ",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "HOJA CARTONERO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "HOM",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "HOMOCINETICA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "HOR",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "HORQUILLA EMBRAGUE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "HOR",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "HOROMETRO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "HOR",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "HORQUILLA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "INF",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "INFLADOR NEUMATICO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "INT",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "INTERRUPTOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "INT",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "INTERRUPTOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "JGO",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "JUEGO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "KIT",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "KIT",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "LAM",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "LAMPARA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "LEM",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "LIMPIA RADIADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "LIM",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "LIMPIA NEUMATICO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "LIM",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "LIMPIA CONTACTO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "LIM",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "LIMPIA PARABRISAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "LIP",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "LIMPIA CARBURADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "LIQ",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "LIQUIDO FRENOS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "LLA",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "LLAVE BUJIA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "LLA",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "LLAVE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "LLA",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "LLAVE AJUSTABLE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "LUZ",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "LUZ FRENO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MAC",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "MACHITO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MAN",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "MANGUERA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MAN",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "MANGUERA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MAN",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "MANGO CORREDIZO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MAN",
+		"LINEA" : "SER",
+		"FDESCRIPCION" : "MANTENCION",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MAR",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "MARCADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MAR",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "MARTILLO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MAS",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "MASILLA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MED",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "MEDIDOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MED",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "MEDIDOR DE PRESION",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MOD",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "MODULO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MOD",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "MODULO PLASTICO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MOT",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "MOTOR DE PARTIDA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MOT",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "MOTOR FLUSH",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "MUL",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "MULTIMETRO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "NEU",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "NEUMATICO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "OPT",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "OPTICO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ORG",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ORGANIZADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ORI",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ORILLADORA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PAK",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "SILICONA+RENOVADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PAÑ",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "PAÑO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PAR",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "PARTIDOR EN FRIO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PAS",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "PASTILLAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PEN",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "PENETRANTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PER",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "PERNO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PIO",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "PIOLA CAMBIOS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PLA",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "PLATINO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "POL",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "POLERA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PRE",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "PRENSA EMBRAGUE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PRO",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "PROBADOR CORRIENTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PRO",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "PROBAROR CORRIENTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PUL",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "PULPO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PUL",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "PASTA PULIR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PUN",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "LLAVE PUNTA-CORONA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "PUR",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "PURGANTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "REF",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "REFRIGERANTES",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "REN",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "RENOVADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "REN",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "RENOVADOR DE NEUMATICO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "REN",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "RENOVADOR NEUMATICO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "RES",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "RESORTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "RES",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "RESTAURADOR DE FAROS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ROD",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "RODAMIENTO EMBRAGUE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "ROT",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "ROTULA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SAC",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "SACA FILTRO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SAC",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "SACA SARRO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SAC",
+		"LINEA" : "HER",
+		"FDESCRIPCION" : "SACA FILTROS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SEG",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "SEGURO PUERTAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SEL",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "SELLO BRONCE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SEL",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "SELLANTE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SEN",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "SENSOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SHA",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "SHAMPOO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SHA",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "SHAMPOO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SIL",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "SILVIN",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SIL",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "SILVIN",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SIL",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "SILICONAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SIL",
+		"LINEA" : "ART",
+		"FDESCRIPCION" : "SILICONA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SOQ",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "SOQUETE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "SWI",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "SWITCH",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TAP",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TAPON CARTER",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TAP",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "TAPA RADIADOR",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TAP",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "TAPA GOTERAS",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TAQ",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TAQUE",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TEF",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "TEFLON",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TEF",
+		"LINEA" : "004",
+		"FDESCRIPCION" : "TEFLON",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TEL",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TELECOMADO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TER",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TERMOSTATO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TER",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "TERMINAL",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TUB",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TUBO AGUA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TUB",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "TUBO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TUE",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "TUERCA RUEDA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TUR",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "TURBO",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "TUR",
+		"LINEA" : "003",
+		"FDESCRIPCION" : "TURBO TIMER",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	},
+	{
+		"FCODIGO" : "VAL",
+		"LINEA" : "002",
+		"FDESCRIPCION" : "VALVULA",
+		"RES_STO" : 0,
+		"RES_VEN" : 0,
+		"FCOM_VEN" : 0
+	}
+]

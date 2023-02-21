@@ -1,0 +1,1182 @@
+[
+	{
+		"Codigo" : "08-C18213",
+		"Nombre" : "FILTRO  STP AIRE  FRONTIER 20768",
+		"Cantidad" : 2
+	},
+	{
+		"Codigo" : "08-C20164",
+		"Nombre" : "FILTRO STP AIRE H100-PORTER-MIGTHHY-  20316",
+		"Cantidad" : 6
+	},
+	{
+		"Codigo" : "08-C2735",
+		"Nombre" : "FILTRO STP AIRE  STA FE    20310",
+		"Cantidad" : 5
+	},
+	{
+		"Codigo" : "08-C2841",
+		"Nombre" : "FILTRO STP MAZDA 1.8-2.0 MZD 6  20534",
+		"Cantidad" : 317
+	},
+	{
+		"Codigo" : "08-C3121",
+		"Nombre" : "FILTRO STP AIRE  MAZDA 1.3-1.5 - 1.6   20400",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "08-HU719/3X",
+		"Nombre" : "FILTRO STP ACEITE CAPTIVA 2.0D  10528",
+		"Cantidad" : 12
+	},
+	{
+		"Codigo" : "08-W610/80",
+		"Nombre" : "FILTRO STP ACEITE AERIO-SWIFT   10542",
+		"Cantidad" : 55
+	},
+	{
+		"Codigo" : "08-W830/3",
+		"Nombre" : "FILTRO STP ACEITE  STA. FE -SPORT -TUCSON-CARE 10590",
+		"Cantidad" : 14
+	},
+	{
+		"Codigo" : "115-3157",
+		"Nombre" : "AMPOLLETA 12V. 25/8W T/AMERIC. AMBAR",
+		"Cantidad" : 520
+	},
+	{
+		"Codigo" : "115-9006",
+		"Nombre" : "AMPOLLETA 12V. 9006 80W",
+		"Cantidad" : 21
+	},
+	{
+		"Codigo" : "115-H112",
+		"Nombre" : "AMPOLLETA 12V H1 100W SORL",
+		"Cantidad" : 763
+	},
+	{
+		"Codigo" : "115-H312",
+		"Nombre" : "AMPOLLETA 12V H3 100W WQY857",
+		"Cantidad" : 960
+	},
+	{
+		"Codigo" : "115-H712100",
+		"Nombre" : "AMPOLLETA 12V. H7 100W",
+		"Cantidad" : 247
+	},
+	{
+		"Codigo" : "130-C13122",
+		"Nombre" : "FILTRO KENDALL AIRE C13122 GALLOPER - D4BA-D4BF-D4BH HYUNDAI H100  28130-44000",
+		"Cantidad" : 6
+	},
+	{
+		"Codigo" : "130-C19254",
+		"Nombre" : "FILTRO AIRE KENDALL C19254 MIGHTY ",
+		"Cantidad" : 9
+	},
+	{
+		"Codigo" : "130-C25125",
+		"Nombre" : "FILTRO KENDALL AIRE H100- PORTER 04-  D4BH  28113-AF000",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "130-C26035/1",
+		"Nombre" : "FILTRO KENDALL  AIRE  C26035/1  HYUNDAI ELANTRA 12-13  28113-3X000",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "130-C2841",
+		"Nombre" : "FILTRO KENDALL AIRE C2841  MAZDA 16V  LF50-13-Z40",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "130-HU616X",
+		"Nombre" : "FILTRO KENDALL  COMBUSTIBLE HU616X  HYUNDAI",
+		"Cantidad" : 84
+	},
+	{
+		"Codigo" : "130-HU7001X",
+		"Nombre" : "FILTRO KENDALL  ACEITE ELEMENTO  HU7001X HYUNDAI ",
+		"Cantidad" : 28
+	},
+	{
+		"Codigo" : "130-HU951X",
+		"Nombre" : "FILTRO KENDALL ACEITE HU951X  M.B. 140  - REXTON 2.9",
+		"Cantidad" : 8
+	},
+	{
+		"Codigo" : "130-W712/19",
+		"Nombre" : "FILTRO KENDALL ACEITE HILUX-HIACE-SKODA-FIAT  90915-200001",
+		"Cantidad" : 16
+	},
+	{
+		"Codigo" : "130-W818/88",
+		"Nombre" : "FILTRO KENDALL ACEITE W818/88  DDGE CALIBER  -08",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "130-W830/3",
+		"Nombre" : "FILTRO KENDALL ACEITE W830/3   26310-27200",
+		"Cantidad" : 48
+	},
+	{
+		"Codigo" : "130-W920/48",
+		"Nombre" : "FILTRO ACEITE KENDALL W920/48  NAVARA DIESEL",
+		"Cantidad" : 3
+	},
+	{
+		"Codigo" : "130-W920/66",
+		"Nombre" : "FILTRO KENDALL ACEITE W920/66  HONDA ACORD/CIVIC/PRELUDE 1.6 1.8    78 - 87",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "130-WK758",
+		"Nombre" : "FILTRO KENDALL  COMBUSTIBLE WK758 MERCEDES SPRINTER 315/411/415/515  ",
+		"Cantidad" : 21
+	},
+	{
+		"Codigo" : "130-WK824/1",
+		"Nombre" : "FILTRO  KENDALL COMBUSTIBLE WK824/1  HYUNDAI H1  -TUCSON  31922-2E900",
+		"Cantidad" : 20
+	},
+	{
+		"Codigo" : "130-WK854/6",
+		"Nombre" : "FILTRO KENDALL COMBUSTIBLE WK854/6  MAHINDRA 2.2 2.5  1906-67",
+		"Cantidad" : 8
+	},
+	{
+		"Codigo" : "130-WK917/1",
+		"Nombre" : "FILTRO KENDALL  COMBUSTIBLE WK917/1 MIGHTY/CANTER",
+		"Cantidad" : 13
+	},
+	{
+		"Codigo" : "130-WK920/1",
+		"Nombre" : "FILTRO KENDALL  COMBUSTIBLE WK920/1   HYUNDAI PORTER GALOPPER   31973-44100",
+		"Cantidad" : 38
+	},
+	{
+		"Codigo" : "130-WK940/6",
+		"Nombre" : "KILTRO KENDALL DIESEL  WK940/6  TERRANO -NAVARA",
+		"Cantidad" : 17
+	},
+	{
+		"Codigo" : "130-WP1045",
+		"Nombre" : "FILTRO KENDALL  ACEITE WP1045 MITSUB. - HYUNDAI - KIA  26311-45001",
+		"Cantidad" : 7
+	},
+	{
+		"Codigo" : "130-WP928/81",
+		"Nombre" : "FILTRO ACEITE KENDALL WP928/81 HYUNDAI H100 PORTER MITSUBISHI L200 26300-42010",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "14-491982",
+		"Nombre" : "SILICONA ULTRA GREY 80 ML. 37464",
+		"Cantidad" : 60
+	},
+	{
+		"Codigo" : "21-A-5X5L",
+		"Nombre" : "ANTICONGELANTE  -  5 Gº PREPARADO ENVASADO",
+		"Cantidad" : 370
+	},
+	{
+		"Codigo" : "21-ADX5L",
+		"Nombre" : "AGUA DESTILADA COSCAR   PPM BAJO ",
+		"Cantidad" : 536
+	},
+	{
+		"Codigo" : "21-AVX5L",
+		"Nombre" : "AGUA VERDE X 5 LITROS",
+		"Cantidad" : 512
+	},
+	{
+		"Codigo" : "21-DMX1L",
+		"Nombre" : "DESENGRASANTE MECANICO  CONCENTRADO  X 1  LITRO",
+		"Cantidad" : 36
+	},
+	{
+		"Codigo" : "21-DMX5L",
+		"Nombre" : "DESENGRASANTE MECANICO CONCENTRADO 5 LITROS",
+		"Cantidad" : 42
+	},
+	{
+		"Codigo" : "21-ELECTROX1L",
+		"Nombre" : "ELECTROLITO 1 LITRO   PARA BATERIA",
+		"Cantidad" : 18
+	},
+	{
+		"Codigo" : "21-ELECTROX5L",
+		"Nombre" : "ELECTROLITO 5 LITROS  PARA BATERIA",
+		"Cantidad" : 25
+	},
+	{
+		"Codigo" : "21-LVX1L",
+		"Nombre" : "LIMPIA VIDRIOS X  1 LITRO",
+		"Cantidad" : 174
+	},
+	{
+		"Codigo" : "21-LVX5L",
+		"Nombre" : "LIMPIA VIDRIO X 5 LITROS",
+		"Cantidad" : 23
+	},
+	{
+		"Codigo" : "21-PC1",
+		"Nombre" : "ANTICONGELANTE -1  PROTEC-COOL 4 LITROS",
+		"Cantidad" : 239
+	},
+	{
+		"Codigo" : "21-PC5",
+		"Nombre" : "ANTICONGELANTE - 5 POWER COOL 4 LITROS",
+		"Cantidad" : 161
+	},
+	{
+		"Codigo" : "21-PR2",
+		"Nombre" : "ANTICONGELANTE -2 POWER RED   4 LITROS",
+		"Cantidad" : 32
+	},
+	{
+		"Codigo" : "27-2223",
+		"Nombre" : "BUJIA NGK BPR5EFS  ( 2223 )",
+		"Cantidad" : 47
+	},
+	{
+		"Codigo" : "27-2526",
+		"Nombre" : "BUJIA NGK BKR5EYA-11 ( 2526 )",
+		"Cantidad" : 20
+	},
+	{
+		"Codigo" : "27-2756",
+		"Nombre" : "BUJIA NGK BKR6E-11 (2756)",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "27-4511",
+		"Nombre" : "BUJIA NGK BP6HS (4511)",
+		"Cantidad" : 12
+	},
+	{
+		"Codigo" : "27-6130",
+		"Nombre" : "BUJIA NGK BCPR5ES  ( 6130 )",
+		"Cantidad" : 68
+	},
+	{
+		"Codigo" : "27-6953",
+		"Nombre" : "BUJIA NGK BKR5E-11 ( 6953 )",
+		"Cantidad" : 22
+	},
+	{
+		"Codigo" : "27-6962",
+		"Nombre" : "BUJIA NGK BKR6E (6962)",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "27-7327",
+		"Nombre" : "BUJIA NGK BP5EY ( 7327 )",
+		"Cantidad" : 2
+	},
+	{
+		"Codigo" : "27-7422",
+		"Nombre" : "BUJIA NGK BPR5ES    ( 7422 )",
+		"Cantidad" : 25
+	},
+	{
+		"Codigo" : "27-7938",
+		"Nombre" : "BUJIA NGK BKR5E      ( 7938 )",
+		"Cantidad" : 106
+	},
+	{
+		"Codigo" : "27-AF2000",
+		"Nombre" : "PRESTONE CONCENTRADO  AMARILLO GALON ",
+		"Cantidad" : 1002
+	},
+	{
+		"Codigo" : "27-AF2033",
+		"Nombre" : "PRESTONE ANTICONGELANTE  MEZCLA PRECISA  33%",
+		"Cantidad" : 234
+	},
+	{
+		"Codigo" : "27-AS105",
+		"Nombre" : "PRESTONE LIMPIA RADIADOR  650 ML  ( 6  L) PURGANTE",
+		"Cantidad" : 114
+	},
+	{
+		"Codigo" : "27-AS120",
+		"Nombre" : "PRESTONE SELLADOR DE RADIADOR 325 ML ( 6 L.)",
+		"Cantidad" : 212
+	},
+	{
+		"Codigo" : "27-AS1300",
+		"Nombre" : "PRESTONE ADITIVO  ACEITE  300 ML  (6 LTS)",
+		"Cantidad" : 732
+	},
+	{
+		"Codigo" : "27-AS145",
+		"Nombre" : "PRESTONE SELLA  FUGAS RADIADOR Y BLOCK 325 ML.  ( 6 L.)",
+		"Cantidad" : 150
+	},
+	{
+		"Codigo" : "27-AS400",
+		"Nombre" : "PRESTONE LIQUIDO FRENO SINTETICO  DOT 3  X  355ML",
+		"Cantidad" : 5
+	},
+	{
+		"Codigo" : "27-AS730",
+		"Nombre" : "PRESTONE  LIMPIA INYECTOR BENCINERO 473 ML  (75L) ",
+		"Cantidad" : 4722
+	},
+	{
+		"Codigo" : "27-as760",
+		"Nombre" : "PRESTONE LIMPIA INYECTOR DIESEL 473 ML (XXL) ",
+		"Cantidad" : 604
+	},
+	{
+		"Codigo" : "27-AS800",
+		"Nombre" : "PRESTONE  LIQUIDO FRENO SINTETICO  DOT 4  X  355 ML",
+		"Cantidad" : 282
+	},
+	{
+		"Codigo" : "27-C15135",
+		"Nombre" : "FILTRO ASAHI AIRE C15135",
+		"Cantidad" : 13
+	},
+	{
+		"Codigo" : "27-C17205",
+		"Nombre" : "FILTRO  TROOP  AIRE C17205",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "27-C2546",
+		"Nombre" : "FILTRO AIRE C2546  85000Y00",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "27-C2572",
+		"Nombre" : "FILTRO TROP  AIRE C2572",
+		"Cantidad" : 23
+	},
+	{
+		"Codigo" : "27-C2964",
+		"Nombre" : "FILTRO ASAHI AIRE C2964",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "27-DGP1928",
+		"Nombre" : "FILTRO AIRE DGP C1928 HYUNDAI",
+		"Cantidad" : 13
+	},
+	{
+		"Codigo" : "27-DGP24162",
+		"Nombre" : "FILTRO DGP AIRE C24162",
+		"Cantidad" : 7
+	},
+	{
+		"Codigo" : "27-DGPHU7001X",
+		"Nombre" : "FILTRO DPG ACEITE HU7001X",
+		"Cantidad" : 29
+	},
+	{
+		"Codigo" : "27-TC13103",
+		"Nombre" : "FILTRO TROOP AIRE C13103",
+		"Cantidad" : 30
+	},
+	{
+		"Codigo" : "27-TC13122",
+		"Nombre" : "FILTRO TROOP AIRE C13122",
+		"Cantidad" : 3
+	},
+	{
+		"Codigo" : "27-TC14179",
+		"Nombre" : "FILTRO TROOP AIRE   C14179",
+		"Cantidad" : 25
+	},
+	{
+		"Codigo" : "27-TC2775",
+		"Nombre" : "FILTRO TROOP  AIRE C2775",
+		"Cantidad" : 2
+	},
+	{
+		"Codigo" : "27-TH819/1X",
+		"Nombre" : "FILTRO TROOP ACEITE H819/1X",
+		"Cantidad" : 9
+	},
+	{
+		"Codigo" : "27-THU711/51X",
+		"Nombre" : "FILTRO TROOP ACEITE HU711/51X",
+		"Cantidad" : 27
+	},
+	{
+		"Codigo" : "27-TW610/80",
+		"Nombre" : "FILTRO TROOP ACEITE W610/80",
+		"Cantidad" : 82
+	},
+	{
+		"Codigo" : "27-TW610/82",
+		"Nombre" : "FILTRO TROOP ACEITE W610/82",
+		"Cantidad" : 54
+	},
+	{
+		"Codigo" : "27-TW67/80",
+		"Nombre" : "FILTRO TROOP ACEITE W67/80",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "27-TW68/80",
+		"Nombre" : "FILTRO TROOP ACEITE W68/80",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "27-TW712/22",
+		"Nombre" : "FILTRO TROOP ACEITE W712/22",
+		"Cantidad" : 12
+	},
+	{
+		"Codigo" : "27-TW719/15",
+		"Nombre" : "FILTRO TROOP ACEITE W719/15",
+		"Cantidad" : 6
+	},
+	{
+		"Codigo" : "27-TW719/27",
+		"Nombre" : "FILTRO TROOP ACEITE W719/27",
+		"Cantidad" : 20
+	},
+	{
+		"Codigo" : "27-TW818/8",
+		"Nombre" : "FILTRO TROOP ACEITE W818/8",
+		"Cantidad" : 18
+	},
+	{
+		"Codigo" : "27-TW920/21",
+		"Nombre" : "FILTRO TROOP ACEITE W920/21",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "27-TW940/1",
+		"Nombre" : "FILTRO TROOP ACEITE W940/1",
+		"Cantidad" : 25
+	},
+	{
+		"Codigo" : "27-TW940/18",
+		"Nombre" : "FILTRO TROOP ACEITE W 940/18",
+		"Cantidad" : 33
+	},
+	{
+		"Codigo" : "27-TWK920/1",
+		"Nombre" : "FILTRO TROOP COMBUSTIBLE WK920/1",
+		"Cantidad" : 9
+	},
+	{
+		"Codigo" : "27-TWP914/80",
+		"Nombre" : "FILTRO TROOP ACEITE WP914/80",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "27-TWP928/81",
+		"Nombre" : "FILTRO TROOP ACEITE W927/8  < = WP928/81",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "36-000164",
+		"Nombre" : "AMPOLLETA 12V 10W T15    T/COLA PEZ TRIFA",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "36-000201",
+		"Nombre" : "AMPOLLETA 12V. 21/5W  T20 COLA PEZ  LUMIACTION",
+		"Cantidad" : 70
+	},
+	{
+		"Codigo" : "36-004025",
+		"Nombre" : "AMPOLLETA 12V 5W T67    TRIFA/FLOSSER",
+		"Cantidad" : 220
+	},
+	{
+		"Codigo" : "36-0194YC",
+		"Nombre" : "AMPOLLETA 12V 3W  T10 COLA PEZ AMBAR TW  FOCUS",
+		"Cantidad" : 40
+	},
+	{
+		"Codigo" : "36-14025",
+		"Nombre" : "AMPOLLETA 12V 10W     TRIFA/FLOSSER.",
+		"Cantidad" : 60
+	},
+	{
+		"Codigo" : "36-14052",
+		"Nombre" : "AMPOLLETA 24V 10W     TRIFA/FLOSSER",
+		"Cantidad" : 120
+	},
+	{
+		"Codigo" : "36-1607",
+		"Nombre" : "AMPOLLETA 12V  H7  55W  TRIFA/FLOSSER",
+		"Cantidad" : 100
+	},
+	{
+		"Codigo" : "36-1617",
+		"Nombre" : "AMPOLLETA H7 24V 70W      PX26D    TRIFA/FLOSSER",
+		"Cantidad" : 100
+	},
+	{
+		"Codigo" : "36-1656",
+		"Nombre" : "AMPOLLETA 24V H1 70W     TRIFA",
+		"Cantidad" : 60
+	},
+	{
+		"Codigo" : "36-1658",
+		"Nombre" : "AMPOLLETA 12V H3 55W   PK22S    TRIFA",
+		"Cantidad" : 26
+	},
+	{
+		"Codigo" : "36-1661",
+		"Nombre" : "AMPOLLETA 12V H4  60/55 W.  P43T  TRIFA/FLOSSER",
+		"Cantidad" : 100
+	},
+	{
+		"Codigo" : "36-1662",
+		"Nombre" : "AMPOLLETA 24V H4  75/70W   P43   TRIFA",
+		"Cantidad" : 50
+	},
+	{
+		"Codigo" : "36-2010A",
+		"Nombre" : "AMPOLLETA 12V 21/5W  T20  W3X19Q  AMBAR",
+		"Cantidad" : 90
+	},
+	{
+		"Codigo" : "36-202",
+		"Nombre" : "AMPOLLETA 12V 21W  T20  T/COLA PEZ   LUMIACTION",
+		"Cantidad" : 120
+	},
+	{
+		"Codigo" : "36-2020A",
+		"Nombre" : "AMPOLLETA 12V 21W  T20 W3X16D 1 CONTACTO",
+		"Cantidad" : 100
+	},
+	{
+		"Codigo" : "36-4052",
+		"Nombre" : "AMPOLLETA 24V 5W 1C TRIFA",
+		"Cantidad" : 80
+	},
+	{
+		"Codigo" : "36-4090",
+		"Nombre" : "AMPOLLETA 12V 3W T10  COLA PEZ  TRIFFA",
+		"Cantidad" : 20
+	},
+	{
+		"Codigo" : "36-419201",
+		"Nombre" : "AMPOLLETA 24V 1.2W  TABLERO BAX10D TRIFA/FLOSSER",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "36-4291",
+		"Nombre" : "AMPOLLETA 12V   5W   T10  COLA PESCADO",
+		"Cantidad" : 80
+	},
+	{
+		"Codigo" : "36-4292",
+		"Nombre" : "AMPOLLETA 24V  5W T10    TRIFA/FLOSSER",
+		"Cantidad" : 200
+	},
+	{
+		"Codigo" : "36-5219",
+		"Nombre" : "AMPOLLETA 12V 2C  P/P 21/5W     TRIFA/FLOSSER",
+		"Cantidad" : 200
+	},
+	{
+		"Codigo" : "36-5238",
+		"Nombre" : "AMPOLLETA 24V 2C  21/5W     TRIFA/FLOSSER",
+		"Cantidad" : 130
+	},
+	{
+		"Codigo" : "36-5239",
+		"Nombre" : "AMPOLLETA 24V  21/5W  P/D     TRIFA/FLOSSER",
+		"Cantidad" : 80
+	},
+	{
+		"Codigo" : "36-6652",
+		"Nombre" : "AMPOLLETA 24V 21W     TRIFA/FLOSSER",
+		"Cantidad" : 140
+	},
+	{
+		"Codigo" : "36-6671",
+		"Nombre" : "AMPOLLETA 12V 1C 21W      BA15S  TRIFA/FLOSSER",
+		"Cantidad" : 110
+	},
+	{
+		"Codigo" : "39-10101",
+		"Nombre" : "PINO AROMA PINO ROYAL",
+		"Cantidad" : 37
+	},
+	{
+		"Codigo" : "39-10105",
+		"Nombre" : "PINO AROMA VAINILLA",
+		"Cantidad" : 122
+	},
+	{
+		"Codigo" : "39-10155",
+		"Nombre" : "PINO AROMA BLACK ICE",
+		"Cantidad" : 2
+	},
+	{
+		"Codigo" : "39-10189",
+		"Nombre" : "PINO AROMA AUTO NUEVO",
+		"Cantidad" : 246
+	},
+	{
+		"Codigo" : "39-10290",
+		"Nombre" : "PINO AROMA CUERO",
+		"Cantidad" : 48
+	},
+	{
+		"Codigo" : "39-10311",
+		"Nombre" : "PINO AROMA CEREZA",
+		"Cantidad" : 102
+	},
+	{
+		"Codigo" : "39-10312",
+		"Nombre" : "PINO AROMA FRUTILLA",
+		"Cantidad" : 26
+	},
+	{
+		"Codigo" : "39-10316",
+		"Nombre" : "PINO AROMA MANZANA VERDE",
+		"Cantidad" : 120
+	},
+	{
+		"Codigo" : "39-10317",
+		"Nombre" : "PINO AROMA COCO",
+		"Cantidad" : 84
+	},
+	{
+		"Codigo" : "39-10319",
+		"Nombre" : "PINO AROMA DURAZNO",
+		"Cantidad" : 96
+	},
+	{
+		"Codigo" : "39-10338",
+		"Nombre" : "PINO AROMA MANZANA CANELA",
+		"Cantidad" : 72
+	},
+	{
+		"Codigo" : "39-10348",
+		"Nombre" : "PINO AROMA GOMA DE MASCAR",
+		"Cantidad" : 59
+	},
+	{
+		"Codigo" : "39-10435",
+		"Nombre" : "PINO AROMA LAVANDA",
+		"Cantidad" : 9
+	},
+	{
+		"Codigo" : "39-10594",
+		"Nombre" : "PINO AROMA LIMONAR",
+		"Cantidad" : 24
+	},
+	{
+		"Codigo" : "39-10967",
+		"Nombre" : "PINO AROMA PIÑA COLADA",
+		"Cantidad" : 30
+	},
+	{
+		"Codigo" : "39-10975",
+		"Nombre" : "PINO AROMA WHISKEY",
+		"Cantidad" : 25
+	},
+	{
+		"Codigo" : "39-17007",
+		"Nombre" : "PINO AROMA FUEGO ",
+		"Cantidad" : 36
+	},
+	{
+		"Codigo" : "39-17037",
+		"Nombre" : "PINO AROMA NO FUMAR",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "39-17146",
+		"Nombre" : "PINO AROMA VIENTO ARTICO",
+		"Cantidad" : 72
+	},
+	{
+		"Codigo" : "39-17152",
+		"Nombre" : "PINO AROMA ACERO",
+		"Cantidad" : 72
+	},
+	{
+		"Codigo" : "39-17329",
+		"Nombre" : "PINO AROMA SEDUCCION",
+		"Cantidad" : 96
+	},
+	{
+		"Codigo" : "39-17347",
+		"Nombre" : "PINO AROMA CAMPO DE MARGARITAS",
+		"Cantidad" : 12
+	},
+	{
+		"Codigo" : "39-17357",
+		"Nombre" : "PINO AROMA CELEBRACION",
+		"Cantidad" : 35
+	},
+	{
+		"Codigo" : "61-880078",
+		"Nombre" : "SILICONA KIT ",
+		"Cantidad" : 252
+	},
+	{
+		"Codigo" : "61-880221",
+		"Nombre" : "SILICONA + RENOVADOR  KIT",
+		"Cantidad" : 120
+	},
+	{
+		"Codigo" : "99-W920/3",
+		"Nombre" : "FILTRO HK ACEITE W920/3",
+		"Cantidad" : 27
+	},
+	{
+		"Codigo" : "99-WK842/2",
+		"Nombre" : "FILTRO HK COMBUSTIBLE WK842/2 OPEL 1.7 DIESEL",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "27-TW67/81",
+		"Nombre" : "FILTRO TROOP ACEITE W67/81",
+		"Cantidad" : 183
+	},
+	{
+		"Codigo" : "08-HU514X",
+		"Nombre" : "FILTRO STP ACEITE HU514X 10728",
+		"Cantidad" : 5
+	},
+	{
+		"Codigo" : "130-W610/4",
+		"Nombre" : "FILTRO KENDAL ACEITEW610/4 NISSAN V16",
+		"Cantidad" : 13
+	},
+	{
+		"Codigo" : "08-W610/82",
+		"Nombre" : "FILTRO KENDALL ACEITE W610/4 NISSAN V16",
+		"Cantidad" : 15
+	},
+	{
+		"Codigo" : "27-THU712/7X",
+		"Nombre" : "FILTRO TROOP ACEITE HU712/7X",
+		"Cantidad" : 20
+	},
+	{
+		"Codigo" : "130-HU712/8X",
+		"Nombre" : "FILTRO KENDALL ACEITE HU712/8X COSA -CITY",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "130-W712/52",
+		"Nombre" : "FILTRO KENDALL  ACEITE   W712/52  VOLKSWAGEN POLO / WOLF 1.6 SAVEIRO 1.6",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "99-W712/55",
+		"Nombre" : "FILTRO HK ACEITE W712/55",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "27-FW712/55",
+		"Nombre" : "FILTRO FRAM ACEITE    FW712/55",
+		"Cantidad" : 85
+	},
+	{
+		"Codigo" : "27-W713/1",
+		"Nombre" : "FILTRO ASAHI ACEITE W713/1",
+		"Cantidad" : 18
+	},
+	{
+		"Codigo" : "99-W713/1",
+		"Nombre" : "FILTRO HK ACEITE",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "99-W713/15",
+		"Nombre" : "FILTRO HK ACEITE W713/15",
+		"Cantidad" : 31
+	},
+	{
+		"Codigo" : "99-W67/80",
+		"Nombre" : "FILTRO HK ACEITE W67/80   UJ1661",
+		"Cantidad" : 19
+	},
+	{
+		"Codigo" : "99-W67/81",
+		"Nombre" : "FILTRO HK ACEITE W67/81",
+		"Cantidad" : 46
+	},
+	{
+		"Codigo" : "130-W713/34",
+		"Nombre" : "FILTRO KENDALL ACEITE W713/34 DIMAX  8-97309927-0",
+		"Cantidad" : 8
+	},
+	{
+		"Codigo" : "130-WK714/1",
+		"Nombre" : "FILTRO KENDALL DIESEL WK714/1 DIMAX-LUV  9414-796",
+		"Cantidad" : 13
+	},
+	{
+		"Codigo" : "99-W719/15",
+		"Nombre" : "FILTRO HK ACEITE W719/15",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "27-HU727/1X",
+		"Nombre" : "FILTRO TROOP ACEITE  HU727/1X    REXTON/ACTION 2.7",
+		"Cantidad" : 8
+	},
+	{
+		"Codigo" : "130-HU818X",
+		"Nombre" : "FILTRO KENDALL  ACEITE HU818X    H. MIGHTY 52003",
+		"Cantidad" : 5
+	},
+	{
+		"Codigo" : "99-W818/4",
+		"Nombre" : "FILTRO HK ACEITE  W818/4",
+		"Cantidad" : 5
+	},
+	{
+		"Codigo" : "27-DGP711",
+		"Nombre" : "FILTRO DGP 711",
+		"Cantidad" : 16
+	},
+	{
+		"Codigo" : "27-THU716/2X",
+		"Nombre" : "FILTRO TROOP ACEITE HU716/2X",
+		"Cantidad" : 17
+	},
+	{
+		"Codigo" : "39-17186",
+		"Nombre" : "PINO AROMA ARRECIFE DE CORAL",
+		"Cantidad" : 24
+	},
+	{
+		"Codigo" : "39-17365",
+		"Nombre" : "PINO AROMA EUCALYPTUS ",
+		"Cantidad" : 24
+	},
+	{
+		"Codigo" : "27-6511",
+		"Nombre" : "BUJIA NGK BP5ES      ( 6511 )",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "27-6427",
+		"Nombre" : "BUJIA NGK BPR6EY    ( 6427 )",
+		"Cantidad" : 60
+	},
+	{
+		"Codigo" : "27-4549",
+		"Nombre" : "BUJIA NGK CR7HSA   (4549)",
+		"Cantidad" : 40
+	},
+	{
+		"Codigo" : "27-4111",
+		"Nombre" : "BUJIA NGK BP5HS (4111)",
+		"Cantidad" : 26
+	},
+	{
+		"Codigo" : "27-3623",
+		"Nombre" : "BUJIA NGK BPR6EFS (3623)",
+		"Cantidad" : 70
+	},
+	{
+		"Codigo" : "27-1146",
+		"Nombre" : "BUJIA NGK BCPR6EY   (1146)",
+		"Cantidad" : 60
+	},
+	{
+		"Codigo" : "27-2330",
+		"Nombre" : "BUJIA NGK BCPR6ES  ( 2330 )",
+		"Cantidad" : 71
+	},
+	{
+		"Codigo" : "27-2355",
+		"Nombre" : "BUJIA NGK BKR5EY-11   (2355)",
+		"Cantidad" : 2
+	},
+	{
+		"Codigo" : "27-2828",
+		"Nombre" : "BUJIA NGK BPR5EY    (2828)",
+		"Cantidad" : 100
+	},
+	{
+		"Codigo" : "27-3028",
+		"Nombre" : "BUJIA NGK BPR5EY-11 ( 3028 )",
+		"Cantidad" : 50
+	},
+	{
+		"Codigo" : "27-3524",
+		"Nombre" : "BUJIA NGK BCPR5ES-11 (3524)",
+		"Cantidad" : 150
+	},
+	{
+		"Codigo" : "27-AF10000",
+		"Nombre" : "PRESTONE COMAND CONCENTRADO MORADO  GALON",
+		"Cantidad" : 186
+	},
+	{
+		"Codigo" : "27-AF12000",
+		"Nombre" : "PRESTONE COMAND CONCENTRADO AMARILLO GALON",
+		"Cantidad" : 249
+	},
+	{
+		"Codigo" : "27-AF11000",
+		"Nombre" : "PRESTONE COMAND CONCENTRADO ROJO      GALON",
+		"Cantidad" : 198
+	},
+	{
+		"Codigo" : "99-W920/82",
+		"Nombre" : "FILTRO HK ACEITE  W920/82",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "99-W924/10",
+		"Nombre" : "FILTRO HK ACEITE W924/10",
+		"Cantidad" : 9
+	},
+	{
+		"Codigo" : "01-W920/48",
+		"Nombre" : "FILTRO MANN ACEITE W920/48",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "27-TW1035",
+		"Nombre" : "FILTRO ACEITE TROOP W1035",
+		"Cantidad" : 1
+	},
+	{
+		"Codigo" : "130-W1035",
+		"Nombre" : "FILTRO KENDALL  ACEITE W1035   EX W1127/1 FRONTIE BESTA PREGIO",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "99-H819/1X",
+		"Nombre" : "FILTRO HK ACEITE H819/1X",
+		"Cantidad" : 5
+	},
+	{
+		"Codigo" : "99-HU822/5X",
+		"Nombre" : "FILTRO HK ACEITE HU822/5X",
+		"Cantidad" : 2
+	},
+	{
+		"Codigo" : "130-WK854/1",
+		"Nombre" : "FILTRO KENDALL DIESEL  WK854/1 SORENTO D4C .5",
+		"Cantidad" : 3
+	},
+	{
+		"Codigo" : "130-WP922",
+		"Nombre" : "FILTRO KENDALL ACEITE WP922   MITSUBISHI  41402",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "99-W1114/80",
+		"Nombre" : "FILTRO HK ACEITE W1114/80          KIA",
+		"Cantidad" : 7
+	},
+	{
+		"Codigo" : "130-HU6006Z",
+		"Nombre" : "FILTRO KENDALL ACEITE  HU6006Z  TOYOTA 37010",
+		"Cantidad" : 18
+	},
+	{
+		"Codigo" : "08-HU7009Z",
+		"Nombre" : "FILTRO STP ACEITE  CRUISER - TUNDRA - RUNNER 10754",
+		"Cantidad" : 18
+	},
+	{
+		"Codigo" : "130-C2742",
+		"Nombre" : "FILTRO KENDALL AIRE C 2742 HYUNDAI ",
+		"Cantidad" : 7
+	},
+	{
+		"Codigo" : "08-C2775",
+		"Nombre" : "FILTRO STP ACEITE CAPTIVA 2.0D  10528",
+		"Cantidad" : 20
+	},
+	{
+		"Codigo" : "130-C3619",
+		"Nombre" : "FILTRO KENDALL AIRE C 3619 CHEV. SPARK",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "27-AS720",
+		"Nombre" : "PRESTONE TRATAMIENTO PARA GASOLINA  OCTANAJE  473ML  (95L)",
+		"Cantidad" : 6
+	},
+	{
+		"Codigo" : "27-AS170",
+		"Nombre" : "PRESTONE ANTIOXIDANTE PARA RADIADOR 325ML  (11 L)",
+		"Cantidad" : 160
+	},
+	{
+		"Codigo" : "08-C17205",
+		"Nombre" : "FILTRO STP AIRE FRONTIER 2.5   20140",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "130-C23004",
+		"Nombre" : "FILTRO KENDALL AIRE C23004  SUZUKI SWIFT 06  13780-63J00",
+		"Cantidad" : 9
+	},
+	{
+		"Codigo" : "08-C23107",
+		"Nombre" : "FILTRO STP AIRE HILUX KUN  RANGER 20178",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "130-C26012",
+		"Nombre" : "FILTRO KENDALL AIRE  C26012 KIA CARENS   28113-2G000",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "130-C26026",
+		"Nombre" : "FILTRO KENDALL AIRE  C26026  ACCENT -RIO - VELOSTER 1.4/1.6  11-13  28113-1R100",
+		"Cantidad" : 27
+	},
+	{
+		"Codigo" : "130-C28144",
+		"Nombre" : "FILTRO KENDALL  AIRE  C28144 SSANGYONG MUSSO - KORANNDO  2319005322",
+		"Cantidad" : 10
+	},
+	{
+		"Codigo" : "130-C29019",
+		"Nombre" : "FILTRO KENDALL AIRE C29019 SANTA FE -SORENTO  2W300",
+		"Cantidad" : 2
+	},
+	{
+		"Codigo" : "38-C2256",
+		"Nombre" : "FILTRO MV AIRE C2256",
+		"Cantidad" : 5
+	},
+	{
+		"Codigo" : "27-TC2329/1",
+		"Nombre" : "FILTRO TROOP   AIRE  C2329/1",
+		"Cantidad" : 8
+	},
+	{
+		"Codigo" : "27-TC2559",
+		"Nombre" : "FILTRO TROOP C2559",
+		"Cantidad" : 4
+	},
+	{
+		"Codigo" : "08-C2610",
+		"Nombre" : "FILTRO STP AIRE  BYD 1.0 HDI PG107  20630",
+		"Cantidad" : 5
+	},
+	{
+		"Codigo" : "130-C2633",
+		"Nombre" : "FILTRO KENDALL AIRE C2633 SANTA FE 26000",
+		"Cantidad" : 11
+	},
+	{
+		"Codigo" : "130-C2735/4",
+		"Nombre" : "FILTRO KENDALL  AIRE C2735/4   NISSAN NAVARA 08- 2.5 CDI 16546-EB70A",
+		"Cantidad" : 5
+	},
+	{
+		"Codigo" : "36-004088",
+		"Nombre" : "AMPOLLETA 12V 4W  T53  TABLERO    TRIFA/FLOSSER",
+		"Cantidad" : 800
+	},
+	{
+		"Codigo" : "115-A121C",
+		"Nombre" : "AMPOLLETA 12V 1 CONTACTO GLOBO GRANDE",
+		"Cantidad" : 1470
+	},
+	{
+		"Codigo" : "115-G1812",
+		"Nombre" : "AMPOLLETA 12V. 1C 10W",
+		"Cantidad" : 190
+	},
+	{
+		"Codigo" : "36-4080",
+		"Nombre" : "AMPOLLETA 24V  T4W TRIFA",
+		"Cantidad" : 20
+	},
+	{
+		"Codigo" : "36-004230",
+		"Nombre" : "AMPOLLETA 12V 5W. 11X40MM  TRIFA",
+		"Cantidad" : 30
+	},
+	{
+		"Codigo" : "36-3116",
+		"Nombre" : "AMPOLLETA 12V  10W  10X31MM SOFITO",
+		"Cantidad" : 50
+	},
+	{
+		"Codigo" : "36-001450",
+		"Nombre" : "AMPOLLETA 12V 5W  10X36MM    SOFITO",
+		"Cantidad" : 40
+	},
+	{
+		"Codigo" : "36-003914",
+		"Nombre" : "AMPOLLETA 12V 10W 11X39MM SOFITO",
+		"Cantidad" : 60
+	},
+	{
+		"Codigo" : "36-004418",
+		"Nombre" : "AMPOLLETA 24V 10W 11X44 TW SOFITO",
+		"Cantidad" : 110
+	},
+	{
+		"Codigo" : "115-3156A",
+		"Nombre" : "AMPOLLETA 12V. 1C. 21W AMBAR T/AMERIC.",
+		"Cantidad" : 1140
+	},
+	{
+		"Codigo" : "115-H11255",
+		"Nombre" : "AMPOLLETA 12V H1 55W SORL",
+		"Cantidad" : 730
+	},
+	{
+		"Codigo" : "36-001655",
+		"Nombre" : "AMPOLLETA 12V H1 55W     TRIFA",
+		"Cantidad" : 60
+	},
+	{
+		"Codigo" : "39-72030",
+		"Nombre" : "AMPOLLETA 12V. 100/90 P45T AZUL",
+		"Cantidad" : 180
+	},
+	{
+		"Codigo" : "36-167005",
+		"Nombre" : "AMPOLLETA 12V H4 100/90W",
+		"Cantidad" : 46
+	},
+	{
+		"Codigo" : "39-H7",
+		"Nombre" : "AMPOLLETA 12V ALOGENO H7 55W",
+		"Cantidad" : 26
+	},
+	{
+		"Codigo" : "115-9004",
+		"Nombre" : "AMPOLLETA 12V. 9004 100/80W",
+		"Cantidad" : 60
+	},
+	{
+		"Codigo" : "115-9007",
+		"Nombre" : "AMPOLLETA 12V. 9007 100/80W",
+		"Cantidad" : 111
+	},
+	{
+		"Codigo" : "20-9007",
+		"Nombre" : "AMPOLLETA BOSCH 9007 12V.  65/55W.",
+		"Cantidad" : 20
+	},
+	{
+		"Codigo" : "115-1824",
+		"Nombre" : "AMPOLLETA 24V. 1C 10W",
+		"Cantidad" : 450
+	},
+	{
+		"Codigo" : "115-H324",
+		"Nombre" : "AMPOLLETA 24V H3 100W WQY859",
+		"Cantidad" : 540
+	},
+	{
+		"Codigo" : "115-H4",
+		"Nombre" : "AMPOLLETA 24V. H4 100/90W P43T          WQY959",
+		"Cantidad" : 61
+	}
+]

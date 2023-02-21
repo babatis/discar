@@ -1,0 +1,66 @@
+[
+	{
+		"UCODIGO" : "010",
+		"UDESCRIPCION" : "GALON"
+	},
+	{
+		"UCODIGO" : "016",
+		"UDESCRIPCION" : "MT"
+	},
+	{
+		"UCODIGO" : "017",
+		"UDESCRIPCION" : "LT"
+	},
+	{
+		"UCODIGO" : "018",
+		"UDESCRIPCION" : "JGO"
+	},
+	{
+		"UCODIGO" : "019",
+		"UDESCRIPCION" : "KIT"
+	},
+	{
+		"UCODIGO" : "021",
+		"UDESCRIPCION" : "TRO"
+	},
+	{
+		"UCODIGO" : "023",
+		"UDESCRIPCION" : "KG."
+	},
+	{
+		"UCODIGO" : "025",
+		"UDESCRIPCION" : "JGO. "
+	},
+	{
+		"UCODIGO" : "031",
+		"UDESCRIPCION" : "PAR"
+	},
+	{
+		"UCODIGO" : "BAL",
+		"UDESCRIPCION" : "BALDE"
+	},
+	{
+		"UCODIGO" : "BID",
+		"UDESCRIPCION" : "BIDON"
+	},
+	{
+		"UCODIGO" : "CAJ",
+		"UDESCRIPCION" : "CAJA"
+	},
+	{
+		"UCODIGO" : "JGO",
+		"UDESCRIPCION" : "JUEGO"
+	},
+	{
+		"UCODIGO" : "LTS",
+		"UDESCRIPCION" : "LITROS"
+	},
+	{
+		"UCODIGO" : "TAM",
+		"UDESCRIPCION" : "TAMBOR"
+	},
+	{
+		"UCODIGO" : "UNI",
+		"UDESCRIPCION" : "UNIDAD"
+	}
+]

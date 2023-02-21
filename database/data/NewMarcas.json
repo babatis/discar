@@ -1,0 +1,1086 @@
+[
+	{
+		"MCODIGO" : "00165",
+		"MDESCRIPCION" : "0"
+	},
+	{
+		"MCODIGO" : "00166",
+		"MDESCRIPCION" : "VOLVO"
+	},
+	{
+		"MCODIGO" : "00167",
+		"MDESCRIPCION" : "SAP "
+	},
+	{
+		"MCODIGO" : "00169",
+		"MDESCRIPCION" : "DPH"
+	},
+	{
+		"MCODIGO" : "00170",
+		"MDESCRIPCION" : "KTC"
+	},
+	{
+		"MCODIGO" : "00171",
+		"MDESCRIPCION" : "CEPSA"
+	},
+	{
+		"MCODIGO" : "00172",
+		"MDESCRIPCION" : "MONROE"
+	},
+	{
+		"MCODIGO" : "00173",
+		"MDESCRIPCION" : "BRASKEM"
+	},
+	{
+		"MCODIGO" : "00174",
+		"MDESCRIPCION" : "DONALDSON"
+	},
+	{
+		"MCODIGO" : "00175",
+		"MDESCRIPCION" : "WAI"
+	},
+	{
+		"MCODIGO" : "00176",
+		"MDESCRIPCION" : "ASAHI"
+	},
+	{
+		"MCODIGO" : "00177",
+		"MDESCRIPCION" : "CFW"
+	},
+	{
+		"MCODIGO" : "00178",
+		"MDESCRIPCION" : "SCANIA"
+	},
+	{
+		"MCODIGO" : "00179",
+		"MDESCRIPCION" : "SACHS"
+	},
+	{
+		"MCODIGO" : "00180",
+		"MDESCRIPCION" : "DT"
+	},
+	{
+		"MCODIGO" : "00181",
+		"MDESCRIPCION" : "PRESTOLITE"
+	},
+	{
+		"MCODIGO" : "00182",
+		"MDESCRIPCION" : "LODERA"
+	},
+	{
+		"MCODIGO" : "00183",
+		"MDESCRIPCION" : "WD40"
+	},
+	{
+		"MCODIGO" : "00184",
+		"MDESCRIPCION" : "PEGA"
+	},
+	{
+		"MCODIGO" : "00185",
+		"MDESCRIPCION" : "PINO"
+	},
+	{
+		"MCODIGO" : "00187",
+		"MDESCRIPCION" : "MENSCH"
+	},
+	{
+		"MCODIGO" : "00188",
+		"MDESCRIPCION" : "COTACO"
+	},
+	{
+		"MCODIGO" : "00189",
+		"MDESCRIPCION" : "ETG"
+	},
+	{
+		"MCODIGO" : "00190",
+		"MDESCRIPCION" : "DIESEL TECHNIC"
+	},
+	{
+		"MCODIGO" : "00191",
+		"MDESCRIPCION" : "DNI"
+	},
+	{
+		"MCODIGO" : "00192",
+		"MDESCRIPCION" : "CH "
+	},
+	{
+		"MCODIGO" : "00193",
+		"MDESCRIPCION" : "CONNECT"
+	},
+	{
+		"MCODIGO" : "00194",
+		"MDESCRIPCION" : "FT"
+	},
+	{
+		"MCODIGO" : "00195",
+		"MDESCRIPCION" : "SIFCO"
+	},
+	{
+		"MCODIGO" : "00196",
+		"MDESCRIPCION" : "HK "
+	},
+	{
+		"MCODIGO" : "00197",
+		"MDESCRIPCION" : "BRL"
+	},
+	{
+		"MCODIGO" : "00198",
+		"MDESCRIPCION" : "GTX"
+	},
+	{
+		"MCODIGO" : "00199",
+		"MDESCRIPCION" : "STR"
+	},
+	{
+		"MCODIGO" : "00200",
+		"MDESCRIPCION" : "EURORICAMBI"
+	},
+	{
+		"MCODIGO" : "00201",
+		"MDESCRIPCION" : "DELCO REMY"
+	},
+	{
+		"MCODIGO" : "00202",
+		"MDESCRIPCION" : "HYVA"
+	},
+	{
+		"MCODIGO" : "00203",
+		"MDESCRIPCION" : "CONTITECH"
+	},
+	{
+		"MCODIGO" : "00204",
+		"MDESCRIPCION" : "ZM"
+	},
+	{
+		"MCODIGO" : "00205",
+		"MDESCRIPCION" : "MARSONS"
+	},
+	{
+		"MCODIGO" : "00206",
+		"MDESCRIPCION" : "ATP"
+	},
+	{
+		"MCODIGO" : "00207",
+		"MDESCRIPCION" : "HEAVY.TURCK"
+	},
+	{
+		"MCODIGO" : "00208",
+		"MDESCRIPCION" : "SUPER LIGHT"
+	},
+	{
+		"MCODIGO" : "00209",
+		"MDESCRIPCION" : "BEPO"
+	},
+	{
+		"MCODIGO" : "00210",
+		"MDESCRIPCION" : "RANDOM"
+	},
+	{
+		"MCODIGO" : "00211",
+		"MDESCRIPCION" : "CHIN "
+	},
+	{
+		"MCODIGO" : "00212",
+		"MDESCRIPCION" : "TRIFFA"
+	},
+	{
+		"MCODIGO" : "00214",
+		"MDESCRIPCION" : "AMG"
+	},
+	{
+		"MCODIGO" : "00215",
+		"MDESCRIPCION" : "SKYFILTER"
+	},
+	{
+		"MCODIGO" : "00216",
+		"MDESCRIPCION" : "USA"
+	},
+	{
+		"MCODIGO" : "00217",
+		"MDESCRIPCION" : "FORTPRO"
+	},
+	{
+		"MCODIGO" : "00218",
+		"MDESCRIPCION" : "BLUEMAX"
+	},
+	{
+		"MCODIGO" : "00219",
+		"MDESCRIPCION" : "TKL"
+	},
+	{
+		"MCODIGO" : "00220",
+		"MDESCRIPCION" : "TRD"
+	},
+	{
+		"MCODIGO" : "00221",
+		"MDESCRIPCION" : "AONE"
+	},
+	{
+		"MCODIGO" : "00222",
+		"MDESCRIPCION" : "BRZ"
+	},
+	{
+		"MCODIGO" : "00223",
+		"MDESCRIPCION" : "RF"
+	},
+	{
+		"MCODIGO" : "00224",
+		"MDESCRIPCION" : "DGP "
+	},
+	{
+		"MCODIGO" : "00225",
+		"MDESCRIPCION" : "EATON"
+	},
+	{
+		"MCODIGO" : "00226",
+		"MDESCRIPCION" : "TRUCKLUMP"
+	},
+	{
+		"MCODIGO" : "00227",
+		"MDESCRIPCION" : "MAHLE"
+	},
+	{
+		"MCODIGO" : "00228",
+		"MDESCRIPCION" : "TW"
+	},
+	{
+		"MCODIGO" : "00229",
+		"MDESCRIPCION" : "LUMIEX"
+	},
+	{
+		"MCODIGO" : "00230",
+		"MDESCRIPCION" : "WABCC"
+	},
+	{
+		"MCODIGO" : "00231",
+		"MDESCRIPCION" : "SAMPA"
+	},
+	{
+		"MCODIGO" : "00232",
+		"MDESCRIPCION" : "SIFTCO"
+	},
+	{
+		"MCODIGO" : "00233",
+		"MDESCRIPCION" : "AKROL"
+	},
+	{
+		"MCODIGO" : "00234",
+		"MDESCRIPCION" : "FEBI"
+	},
+	{
+		"MCODIGO" : "00235",
+		"MDESCRIPCION" : "SEM"
+	},
+	{
+		"MCODIGO" : "00236",
+		"MDESCRIPCION" : "COJAIL"
+	},
+	{
+		"MCODIGO" : "00237",
+		"MDESCRIPCION" : "WALKER"
+	},
+	{
+		"MCODIGO" : "00238",
+		"MDESCRIPCION" : "CHBRZ"
+	},
+	{
+		"MCODIGO" : "00239",
+		"MDESCRIPCION" : "ALLISON"
+	},
+	{
+		"MCODIGO" : "00240",
+		"MDESCRIPCION" : "SEGER"
+	},
+	{
+		"MCODIGO" : "00241",
+		"MDESCRIPCION" : "MAG1"
+	},
+	{
+		"MCODIGO" : "00242",
+		"MDESCRIPCION" : "GAFF"
+	},
+	{
+		"MCODIGO" : "00243",
+		"MDESCRIPCION" : "BENDIX"
+	},
+	{
+		"MCODIGO" : "00244",
+		"MDESCRIPCION" : "CASA"
+	},
+	{
+		"MCODIGO" : "00245",
+		"MDESCRIPCION" : "ATECH"
+	},
+	{
+		"MCODIGO" : "00246",
+		"MDESCRIPCION" : "ARLON"
+	},
+	{
+		"MCODIGO" : "00247",
+		"MDESCRIPCION" : "QPS"
+	},
+	{
+		"MCODIGO" : "00248",
+		"MDESCRIPCION" : "MERCEDES BENZ"
+	},
+	{
+		"MCODIGO" : "00249",
+		"MDESCRIPCION" : "VIGOR"
+	},
+	{
+		"MCODIGO" : "00250",
+		"MDESCRIPCION" : "WURTH"
+	},
+	{
+		"MCODIGO" : "00251",
+		"MDESCRIPCION" : "CLP"
+	},
+	{
+		"MCODIGO" : "00252",
+		"MDESCRIPCION" : "CHL"
+	},
+	{
+		"MCODIGO" : "00253",
+		"MDESCRIPCION" : "WABCO"
+	},
+	{
+		"MCODIGO" : "00254",
+		"MDESCRIPCION" : "HANKOOK"
+	},
+	{
+		"MCODIGO" : "00255",
+		"MDESCRIPCION" : "PAPEL"
+	},
+	{
+		"MCODIGO" : "00256",
+		"MDESCRIPCION" : "INTERNATIONAL"
+	},
+	{
+		"MCODIGO" : "00257",
+		"MDESCRIPCION" : "VMG"
+	},
+	{
+		"MCODIGO" : "00258",
+		"MDESCRIPCION" : "CUMMINS"
+	},
+	{
+		"MCODIGO" : "00259",
+		"MDESCRIPCION" : "BRM"
+	},
+	{
+		"MCODIGO" : "00260",
+		"MDESCRIPCION" : "TL"
+	},
+	{
+		"MCODIGO" : "00261",
+		"MDESCRIPCION" : "HENGST"
+	},
+	{
+		"MCODIGO" : "00262",
+		"MDESCRIPCION" : "0."
+	},
+	{
+		"MCODIGO" : "00263",
+		"MDESCRIPCION" : "OSVAT"
+	},
+	{
+		"MCODIGO" : "00264",
+		"MDESCRIPCION" : "VDO"
+	},
+	{
+		"MCODIGO" : "00265",
+		"MDESCRIPCION" : "ELRING"
+	},
+	{
+		"MCODIGO" : "00266",
+		"MDESCRIPCION" : "SLP3"
+	},
+	{
+		"MCODIGO" : "00267",
+		"MDESCRIPCION" : "SLP "
+	},
+	{
+		"MCODIGO" : "00268",
+		"MDESCRIPCION" : "DAYCO"
+	},
+	{
+		"MCODIGO" : "00269",
+		"MDESCRIPCION" : "TRIANGLE"
+	},
+	{
+		"MCODIGO" : "00270",
+		"MDESCRIPCION" : "PEGATANKE"
+	},
+	{
+		"MCODIGO" : "00271",
+		"MDESCRIPCION" : "BRASIL"
+	},
+	{
+		"MCODIGO" : "003",
+		"MDESCRIPCION" : "TOPOWER"
+	},
+	{
+		"MCODIGO" : "0CH",
+		"MDESCRIPCION" : "CHINEESE"
+	},
+	{
+		"MCODIGO" : "3MM",
+		"MDESCRIPCION" : "3M"
+	},
+	{
+		"MCODIGO" : "AGR",
+		"MDESCRIPCION" : "AGROFOR"
+	},
+	{
+		"MCODIGO" : "AMA",
+		"MDESCRIPCION" : "AMALIE"
+	},
+	{
+		"MCODIGO" : "AQU",
+		"MDESCRIPCION" : "AQUA NORTE"
+	},
+	{
+		"MCODIGO" : "ATL",
+		"MDESCRIPCION" : "ATLAS"
+	},
+	{
+		"MCODIGO" : "AUT",
+		"MDESCRIPCION" : "AUTOTEC"
+	},
+	{
+		"MCODIGO" : "BEN",
+		"MDESCRIPCION" : "BENTON"
+	},
+	{
+		"MCODIGO" : "BES",
+		"MDESCRIPCION" : "BESTE"
+	},
+	{
+		"MCODIGO" : "BLA",
+		"MDESCRIPCION" : "BLAC CLUBS"
+	},
+	{
+		"MCODIGO" : "BLU",
+		"MDESCRIPCION" : "BLUE MAGIC"
+	},
+	{
+		"MCODIGO" : "BMN",
+		"MDESCRIPCION" : "BENEN"
+	},
+	{
+		"MCODIGO" : "BOS",
+		"MDESCRIPCION" : "BOSCH"
+	},
+	{
+		"MCODIGO" : "BOX",
+		"MDESCRIPCION" : "ENERBOX"
+	},
+	{
+		"MCODIGO" : "CAP",
+		"MDESCRIPCION" : "CAPSA"
+	},
+	{
+		"MCODIGO" : "CAR",
+		"MDESCRIPCION" : "CARFRAN"
+	},
+	{
+		"MCODIGO" : "CAS",
+		"MDESCRIPCION" : "CASTROL"
+	},
+	{
+		"MCODIGO" : "CHA",
+		"MDESCRIPCION" : "CHAMPION"
+	},
+	{
+		"MCODIGO" : "CHE",
+		"MDESCRIPCION" : "CHEVRON"
+	},
+	{
+		"MCODIGO" : "CHI",
+		"MDESCRIPCION" : "CHIN LANG"
+	},
+	{
+		"MCODIGO" : "CRU",
+		"MDESCRIPCION" : "CRUG"
+	},
+	{
+		"MCODIGO" : "CYC",
+		"MDESCRIPCION" : "CYCLO"
+	},
+	{
+		"MCODIGO" : "DAE",
+		"MDESCRIPCION" : "DAEWHA"
+	},
+	{
+		"MCODIGO" : "DAS",
+		"MDESCRIPCION" : "DASHI STARTER"
+	},
+	{
+		"MCODIGO" : "DEL",
+		"MDESCRIPCION" : "DELPHI"
+	},
+	{
+		"MCODIGO" : "DEN",
+		"MDESCRIPCION" : "DENSO"
+	},
+	{
+		"MCODIGO" : "DIF",
+		"MDESCRIPCION" : "DIFORZA"
+	},
+	{
+		"MCODIGO" : "DOL",
+		"MDESCRIPCION" : "DOLPHIN"
+	},
+	{
+		"MCODIGO" : "ECH",
+		"MDESCRIPCION" : "ECHLIN"
+	},
+	{
+		"MCODIGO" : "ECO",
+		"MDESCRIPCION" : "ECOBAT"
+	},
+	{
+		"MCODIGO" : "EIK",
+		"MDESCRIPCION" : "EIKO"
+	},
+	{
+		"MCODIGO" : "ENE",
+		"MDESCRIPCION" : "ENERGY"
+	},
+	{
+		"MCODIGO" : "ERI",
+		"MDESCRIPCION" : "ERITIC GASKET"
+	},
+	{
+		"MCODIGO" : "EUR",
+		"MDESCRIPCION" : "EURO TYPE R"
+	},
+	{
+		"MCODIGO" : "EXC",
+		"MDESCRIPCION" : "EXCEL"
+	},
+	{
+		"MCODIGO" : "EXI",
+		"MDESCRIPCION" : "EXIDE"
+	},
+	{
+		"MCODIGO" : "EXP",
+		"MDESCRIPCION" : "EXPERT"
+	},
+	{
+		"MCODIGO" : "FAH",
+		"MDESCRIPCION" : "FAHRT"
+	},
+	{
+		"MCODIGO" : "FED",
+		"MDESCRIPCION" : "FEDERAL"
+	},
+	{
+		"MCODIGO" : "FEL",
+		"MDESCRIPCION" : "FLEETGUARD"
+	},
+	{
+		"MCODIGO" : "FER",
+		"MDESCRIPCION" : "FERRAWYY"
+	},
+	{
+		"MCODIGO" : "FEX",
+		"MDESCRIPCION" : "FEXARO"
+	},
+	{
+		"MCODIGO" : "FIB",
+		"MDESCRIPCION" : "FIBRO"
+	},
+	{
+		"MCODIGO" : "FIL",
+		"MDESCRIPCION" : "FILTEC"
+	},
+	{
+		"MCODIGO" : "FLE",
+		"MDESCRIPCION" : "FLEX LINE"
+	},
+	{
+		"MCODIGO" : "FLO",
+		"MDESCRIPCION" : "FLOSSER"
+	},
+	{
+		"MCODIGO" : "FOC",
+		"MDESCRIPCION" : "FOCUS"
+	},
+	{
+		"MCODIGO" : "FRE",
+		"MDESCRIPCION" : "FREENOX"
+	},
+	{
+		"MCODIGO" : "FUE",
+		"MDESCRIPCION" : "FUEL FILTER"
+	},
+	{
+		"MCODIGO" : "GAR",
+		"MDESCRIPCION" : "GARRETT"
+	},
+	{
+		"MCODIGO" : "GAS",
+		"MDESCRIPCION" : "GAS CAP"
+	},
+	{
+		"MCODIGO" : "GAU",
+		"MDESCRIPCION" : "GAUSS"
+	},
+	{
+		"MCODIGO" : "GEN",
+		"MDESCRIPCION" : "GEN"
+	},
+	{
+		"MCODIGO" : "GLA",
+		"MDESCRIPCION" : "GLADE"
+	},
+	{
+		"MCODIGO" : "GLE",
+		"MDESCRIPCION" : "GLADIATOR"
+	},
+	{
+		"MCODIGO" : "GMB",
+		"MDESCRIPCION" : "GMB"
+	},
+	{
+		"MCODIGO" : "GOO",
+		"MDESCRIPCION" : "GOODRIDE"
+	},
+	{
+		"MCODIGO" : "GRE",
+		"MDESCRIPCION" : "GREEN FLOW"
+	},
+	{
+		"MCODIGO" : "GSK",
+		"MDESCRIPCION" : "GSK"
+	},
+	{
+		"MCODIGO" : "GSP",
+		"MDESCRIPCION" : "GSP"
+	},
+	{
+		"MCODIGO" : "GUN",
+		"MDESCRIPCION" : "GUNK"
+	},
+	{
+		"MCODIGO" : "GWB",
+		"MDESCRIPCION" : "GWB"
+	},
+	{
+		"MCODIGO" : "GWM",
+		"MDESCRIPCION" : "GWM"
+	},
+	{
+		"MCODIGO" : "HEA",
+		"MDESCRIPCION" : "HEARTY PRECISION"
+	},
+	{
+		"MCODIGO" : "HEL",
+		"MDESCRIPCION" : "HELLA"
+	},
+	{
+		"MCODIGO" : "HIP",
+		"MDESCRIPCION" : "HIPOWER"
+	},
+	{
+		"MCODIGO" : "HKT",
+		"MDESCRIPCION" : "HKT"
+	},
+	{
+		"MCODIGO" : "HOK",
+		"MDESCRIPCION" : "HOK"
+	},
+	{
+		"MCODIGO" : "HYU",
+		"MDESCRIPCION" : "HYUNDAI"
+	},
+	{
+		"MCODIGO" : "INT",
+		"MDESCRIPCION" : "INTERFIL"
+	},
+	{
+		"MCODIGO" : "JAS",
+		"MDESCRIPCION" : "JASPE"
+	},
+	{
+		"MCODIGO" : "JON",
+		"MDESCRIPCION" : "JONNESSWAY"
+	},
+	{
+		"MCODIGO" : "KAM",
+		"MDESCRIPCION" : "KAMASA"
+	},
+	{
+		"MCODIGO" : "KEN",
+		"MDESCRIPCION" : "KENDALL"
+	},
+	{
+		"MCODIGO" : "KIN",
+		"MDESCRIPCION" : "KING TONY"
+	},
+	{
+		"MCODIGO" : "KIT",
+		"MDESCRIPCION" : "KIT"
+	},
+	{
+		"MCODIGO" : "KRU",
+		"MDESCRIPCION" : "KRUG"
+	},
+	{
+		"MCODIGO" : "KSG",
+		"MDESCRIPCION" : "KSG"
+	},
+	{
+		"MCODIGO" : "KXB",
+		"MDESCRIPCION" : "KXB"
+	},
+	{
+		"MCODIGO" : "LIQ",
+		"MDESCRIPCION" : "LIQUIMOLY"
+	},
+	{
+		"MCODIGO" : "LIT",
+		"MDESCRIPCION" : "LITTLE TREES"
+	},
+	{
+		"MCODIGO" : "LOC",
+		"MDESCRIPCION" : "LOCTITE"
+	},
+	{
+		"MCODIGO" : "LUB",
+		"MDESCRIPCION" : "LUBRISTONE"
+	},
+	{
+		"MCODIGO" : "LUC",
+		"MDESCRIPCION" : "LUCAS"
+	},
+	{
+		"MCODIGO" : "LUM",
+		"MDESCRIPCION" : "LUMINATION"
+	},
+	{
+		"MCODIGO" : "LUR",
+		"MDESCRIPCION" : "LUBRAX"
+	},
+	{
+		"MCODIGO" : "MAL",
+		"MDESCRIPCION" : "MARTICORENA"
+	},
+	{
+		"MCODIGO" : "MAN",
+		"MDESCRIPCION" : "MANN"
+	},
+	{
+		"MCODIGO" : "MAR",
+		"MDESCRIPCION" : "MARCO"
+	},
+	{
+		"MCODIGO" : "MAS",
+		"MDESCRIPCION" : "MASTER"
+	},
+	{
+		"MCODIGO" : "MAX",
+		"MDESCRIPCION" : "MAXBAT"
+	},
+	{
+		"MCODIGO" : "MEG",
+		"MDESCRIPCION" : "MEGATITE"
+	},
+	{
+		"MCODIGO" : "MIS",
+		"MDESCRIPCION" : "MISHIMA"
+	},
+	{
+		"MCODIGO" : "MOB",
+		"MDESCRIPCION" : "MOBIL"
+	},
+	{
+		"MCODIGO" : "MOL",
+		"MDESCRIPCION" : "MOLYCOTE"
+	},
+	{
+		"MCODIGO" : "MON",
+		"MDESCRIPCION" : "MONARK"
+	},
+	{
+		"MCODIGO" : "MOT",
+		"MDESCRIPCION" : "MOTORCRAFT"
+	},
+	{
+		"MCODIGO" : "MUB",
+		"MDESCRIPCION" : "MUBIS"
+	},
+	{
+		"MCODIGO" : "MUT",
+		"MDESCRIPCION" : "MOTOR LIFE"
+	},
+	{
+		"MCODIGO" : "NAR",
+		"MDESCRIPCION" : "NARVA"
+	},
+	{
+		"MCODIGO" : "NEO",
+		"MDESCRIPCION" : "NEOLITE"
+	},
+	{
+		"MCODIGO" : "NGK",
+		"MDESCRIPCION" : "NGK"
+	},
+	{
+		"MCODIGO" : "NIO",
+		"MDESCRIPCION" : "NEO"
+	},
+	{
+		"MCODIGO" : "NOS",
+		"MDESCRIPCION" : "NOSSO"
+	},
+	{
+		"MCODIGO" : "NOV",
+		"MDESCRIPCION" : "NOVAC"
+	},
+	{
+		"MCODIGO" : "NPP",
+		"MDESCRIPCION" : "NPPN"
+	},
+	{
+		"MCODIGO" : "ONU",
+		"MDESCRIPCION" : "ONURI"
+	},
+	{
+		"MCODIGO" : "OPT",
+		"MDESCRIPCION" : "OPTIMUS"
+	},
+	{
+		"MCODIGO" : "OSR",
+		"MDESCRIPCION" : "OSRAM"
+	},
+	{
+		"MCODIGO" : "OSS",
+		"MDESCRIPCION" : "OSSCA"
+	},
+	{
+		"MCODIGO" : "PEM",
+		"MDESCRIPCION" : "PEMAX"
+	},
+	{
+		"MCODIGO" : "PER",
+		"MDESCRIPCION" : "PERMAWELD QUIK"
+	},
+	{
+		"MCODIGO" : "PFI",
+		"MDESCRIPCION" : "PFI"
+	},
+	{
+		"MCODIGO" : "POX",
+		"MDESCRIPCION" : "POXIPOL"
+	},
+	{
+		"MCODIGO" : "PRE",
+		"MDESCRIPCION" : "PREMIER"
+	},
+	{
+		"MCODIGO" : "PRO",
+		"MDESCRIPCION" : "PRESTONE"
+	},
+	{
+		"MCODIGO" : "R66",
+		"MDESCRIPCION" : "R66"
+	},
+	{
+		"MCODIGO" : "RAM",
+		"MDESCRIPCION" : "RAMA"
+	},
+	{
+		"MCODIGO" : "REA",
+		"MDESCRIPCION" : "REALIGHT"
+	},
+	{
+		"MCODIGO" : "RIN",
+		"MDESCRIPCION" : "RINSO"
+	},
+	{
+		"MCODIGO" : "SAF",
+		"MDESCRIPCION" : "SAFARI"
+	},
+	{
+		"MCODIGO" : "SAK",
+		"MDESCRIPCION" : "SAKURA"
+	},
+	{
+		"MCODIGO" : "SAL",
+		"MDESCRIPCION" : "SAPOL"
+	},
+	{
+		"MCODIGO" : "SAM",
+		"MDESCRIPCION" : "SAMOA"
+	},
+	{
+		"MCODIGO" : "SAP",
+		"MDESCRIPCION" : "SAPOLIO"
+	},
+	{
+		"MCODIGO" : "SCG",
+		"MDESCRIPCION" : "SCG"
+	},
+	{
+		"MCODIGO" : "SCH",
+		"MDESCRIPCION" : "SCHUNK"
+	},
+	{
+		"MCODIGO" : "SCT",
+		"MDESCRIPCION" : "PROVEEDOR DE PARTES"
+	},
+	{
+		"MCODIGO" : "SEC",
+		"MDESCRIPCION" : "SECO"
+	},
+	{
+		"MCODIGO" : "SHA",
+		"MDESCRIPCION" : "SHAP"
+	},
+	{
+		"MCODIGO" : "SHE",
+		"MDESCRIPCION" : "SHELL"
+	},
+	{
+		"MCODIGO" : "SHI",
+		"MDESCRIPCION" : "SHIZUOKA"
+	},
+	{
+		"MCODIGO" : "SHU",
+		"MDESCRIPCION" : "SHUNMA"
+	},
+	{
+		"MCODIGO" : "SIL",
+		"MDESCRIPCION" : "SILVER"
+	},
+	{
+		"MCODIGO" : "SIN",
+		"MDESCRIPCION" : "SIN MARCA"
+	},
+	{
+		"MCODIGO" : "SKY",
+		"MDESCRIPCION" : "SKYFIL"
+	},
+	{
+		"MCODIGO" : "SON",
+		"MDESCRIPCION" : "SONAX"
+	},
+	{
+		"MCODIGO" : "SOU",
+		"MDESCRIPCION" : "SUN TECH"
+	},
+	{
+		"MCODIGO" : "STA",
+		"MDESCRIPCION" : "STANLEY"
+	},
+	{
+		"MCODIGO" : "SUB",
+		"MDESCRIPCION" : "SUB CERO"
+	},
+	{
+		"MCODIGO" : "SUP",
+		"MDESCRIPCION" : "SUPER"
+	},
+	{
+		"MCODIGO" : "SUR",
+		"MDESCRIPCION" : "SURE FILTER"
+	},
+	{
+		"MCODIGO" : "TAM",
+		"MDESCRIPCION" : "TAMA ENTERPRISES CO."
+	},
+	{
+		"MCODIGO" : "TIT",
+		"MDESCRIPCION" : "TITAN"
+	},
+	{
+		"MCODIGO" : "TOP",
+		"MDESCRIPCION" : "TOPEX"
+	},
+	{
+		"MCODIGO" : "TOT",
+		"MDESCRIPCION" : "TOTEM"
+	},
+	{
+		"MCODIGO" : "TRO",
+		"MDESCRIPCION" : "TROOP"
+	},
+	{
+		"MCODIGO" : "TRU",
+		"MDESCRIPCION" : "TRUPER"
+	},
+	{
+		"MCODIGO" : "TUK",
+		"MDESCRIPCION" : "TUKAI"
+	},
+	{
+		"MCODIGO" : "TUN",
+		"MDESCRIPCION" : "TUNGSRAM"
+	},
+	{
+		"MCODIGO" : "TUR",
+		"MDESCRIPCION" : "TURBOPRO"
+	},
+	{
+		"MCODIGO" : "TYP",
+		"MDESCRIPCION" : "TYPE R"
+	},
+	{
+		"MCODIGO" : "UNI",
+		"MDESCRIPCION" : "UNIPOINT"
+	},
+	{
+		"MCODIGO" : "UTU",
+		"MDESCRIPCION" : "UTULTOOLS"
+	},
+	{
+		"MCODIGO" : "VAA",
+		"MDESCRIPCION" : "VALVOLINE"
+	},
+	{
+		"MCODIGO" : "VAL",
+		"MDESCRIPCION" : "VALEO"
+	},
+	{
+		"MCODIGO" : "VAR",
+		"MDESCRIPCION" : "VARGA"
+	},
+	{
+		"MCODIGO" : "VER",
+		"MDESCRIPCION" : "VERSACHEM"
+	},
+	{
+		"MCODIGO" : "WAG",
+		"MDESCRIPCION" : "WAGNER"
+	},
+	{
+		"MCODIGO" : "WD4",
+		"MDESCRIPCION" : "WD-40"
+	},
+	{
+		"MCODIGO" : "WIN",
+		"MDESCRIPCION" : "WIND FRESH"
+	},
+	{
+		"MCODIGO" : "WPS",
+		"MDESCRIPCION" : "WORLD POWER SYSTEM"
+	},
+	{
+		"MCODIGO" : "WYN",
+		"MDESCRIPCION" : "WYNNS"
+	},
+	{
+		"MCODIGO" : "XCE",
+		"MDESCRIPCION" : "XCEL"
+	},
+	{
+		"MCODIGO" : "YCL",
+		"MDESCRIPCION" : "YCL"
+	},
+	{
+		"MCODIGO" : "YUM",
+		"MDESCRIPCION" : "YUMAK"
+	}
+]

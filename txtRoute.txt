@@ -1,0 +1,124 @@
++--------+-----------+----------------------------------------+--------------------+-------------------------------------------------------------------+--------------+
+|[32m Domain [39m|[32m Method    [39m|[32m URI                                    [39m|[32m Name               [39m|[32m Action                                                            [39m|[32m Middleware   [39m|
++--------+-----------+----------------------------------------+--------------------+-------------------------------------------------------------------+--------------+
+|        | POST      | /                                      |                    | App\Http\Controllers\Auth\LoginController@login                   | web,guest    |
+|        | GET|HEAD  | /                                      | login              | App\Http\Controllers\Auth\LoginController@showLoginForm           | web,guest    |
+|        | GET|HEAD  | admin                                  |                    | Closure                                                           | web          |
+|        | GET|HEAD  | admin/archivos/familias                | familias.index     | App\Http\Controllers\FamiliasController@index                     | web          |
+|        | POST      | admin/archivos/familias                | familias.store     | App\Http\Controllers\FamiliasController@store                     | web          |
+|        | GET|HEAD  | admin/archivos/familias/create         | familias.create    | App\Http\Controllers\FamiliasController@create                    | web          |
+|        | GET|HEAD  | admin/archivos/familias/{familia}      | familias.show      | App\Http\Controllers\FamiliasController@show                      | web          |
+|        | DELETE    | admin/archivos/familias/{familia}      | familias.destroy   | App\Http\Controllers\FamiliasController@destroy                   | web          |
+|        | PUT|PATCH | admin/archivos/familias/{familia}      | familias.update    | App\Http\Controllers\FamiliasController@update                    | web          |
+|        | GET|HEAD  | admin/archivos/familias/{familia}/edit | familias.edit      | App\Http\Controllers\FamiliasController@edit                      | web          |
+|        | GET|HEAD  | admin/archivos/lineas                  | lineas.index       | App\Http\Controllers\LineasController@index                       | web          |
+|        | POST      | admin/archivos/lineas                  | lineas.store       | App\Http\Controllers\LineasController@store                       | web          |
+|        | GET|HEAD  | admin/archivos/lineas/create           | lineas.create      | App\Http\Controllers\LineasController@create                      | web          |
+|        | GET|HEAD  | admin/archivos/lineas/{linea}          | lineas.show        | App\Http\Controllers\LineasController@show                        | web          |
+|        | PUT|PATCH | admin/archivos/lineas/{linea}          | lineas.update      | App\Http\Controllers\LineasController@update                      | web          |
+|        | DELETE    | admin/archivos/lineas/{linea}          | lineas.destroy     | App\Http\Controllers\LineasController@destroy                     | web          |
+|        | GET|HEAD  | admin/archivos/lineas/{linea}/edit     | lineas.edit        | App\Http\Controllers\LineasController@edit                        | web          |
+|        | POST      | admin/archivos/marcas                  | marcas.store       | App\Http\Controllers\MarcasController@store                       | web          |
+|        | GET|HEAD  | admin/archivos/marcas                  | marcas.index       | App\Http\Controllers\MarcasController@index                       | web          |
+|        | GET|HEAD  | admin/archivos/marcas/create           | marcas.create      | App\Http\Controllers\MarcasController@create                      | web          |
+|        | GET|HEAD  | admin/archivos/marcas/{marca}          | marcas.show        | App\Http\Controllers\MarcasController@show                        | web          |
+|        | PUT|PATCH | admin/archivos/marcas/{marca}          | marcas.update      | App\Http\Controllers\MarcasController@update                      | web          |
+|        | DELETE    | admin/archivos/marcas/{marca}          | marcas.destroy     | App\Http\Controllers\MarcasController@destroy                     | web          |
+|        | GET|HEAD  | admin/archivos/marcas/{marca}/edit     | marcas.edit        | App\Http\Controllers\MarcasController@edit                        | web          |
+|        | POST      | admin/archivos/unidades                | unidades.store     | App\Http\Controllers\UnidadesController@store                     | web          |
+|        | GET|HEAD  | admin/archivos/unidades                | unidades.index     | App\Http\Controllers\UnidadesController@index                     | web          |
+|        | GET|HEAD  | admin/archivos/unidades/create         | unidades.create    | App\Http\Controllers\UnidadesController@create                    | web          |
+|        | DELETE    | admin/archivos/unidades/{unidade}      | unidades.destroy   | App\Http\Controllers\UnidadesController@destroy                   | web          |
+|        | GET|HEAD  | admin/archivos/unidades/{unidade}      | unidades.show      | App\Http\Controllers\UnidadesController@show                      | web          |
+|        | PUT|PATCH | admin/archivos/unidades/{unidade}      | unidades.update    | App\Http\Controllers\UnidadesController@update                    | web          |
+|        | GET|HEAD  | admin/archivos/unidades/{unidade}/edit | unidades.edit      | App\Http\Controllers\UnidadesController@edit                      | web          |
+|        | POST      | admin/cliente                          | cliente.store      | App\Http\Controllers\ClienteController@store                      | web          |
+|        | GET|HEAD  | admin/cliente                          | cliente.index      | App\Http\Controllers\ClienteController@index                      | web          |
+|        | GET|HEAD  | admin/cliente/create                   | cliente.create     | App\Http\Controllers\ClienteController@create                     | web          |
+|        | DELETE    | admin/cliente/{cliente}                | cliente.destroy    | App\Http\Controllers\ClienteController@destroy                    | web          |
+|        | GET|HEAD  | admin/cliente/{cliente}                | cliente.show       | App\Http\Controllers\ClienteController@show                       | web          |
+|        | PUT|PATCH | admin/cliente/{cliente}                | cliente.update     | App\Http\Controllers\ClienteController@update                     | web          |
+|        | GET|HEAD  | admin/cliente/{cliente}/edit           | cliente.edit       | App\Http\Controllers\ClienteController@edit                       | web          |
+|        | GET|HEAD  | admin/compras                          | compras.index      | App\Http\Controllers\ComprasController@index                      | web          |
+|        | POST      | admin/compras                          | compras.store      | App\Http\Controllers\ComprasController@store                      | web          |
+|        | GET|HEAD  | admin/compras/create                   | compras.create     | App\Http\Controllers\ComprasController@create                     | web          |
+|        | PUT|PATCH | admin/compras/{compra}                 | compras.update     | App\Http\Controllers\ComprasController@update                     | web          |
+|        | GET|HEAD  | admin/compras/{compra}                 | compras.show       | App\Http\Controllers\ComprasController@show                       | web          |
+|        | DELETE    | admin/compras/{compra}                 | compras.destroy    | App\Http\Controllers\ComprasController@destroy                    | web          |
+|        | GET|HEAD  | admin/compras/{compra}/edit            | compras.edit       | App\Http\Controllers\ComprasController@edit                       | web          |
+|        | GET|HEAD  | admin/info/stock                       |                    | App\Http\Controllers\informeController@exportPrecioProd           | web          |
+|        | GET|HEAD  | admin/inventario                       | inventario.index   | App\Http\Controllers\InventarioController@index                   | web          |
+|        | POST      | admin/inventario                       | inventario.store   | App\Http\Controllers\InventarioController@store                   | web          |
+|        | GET|HEAD  | admin/inventario/create                | inventario.create  | App\Http\Controllers\InventarioController@create                  | web          |
+|        | DELETE    | admin/inventario/{inventario}          | inventario.destroy | App\Http\Controllers\InventarioController@destroy                 | web          |
+|        | PUT|PATCH | admin/inventario/{inventario}          | inventario.update  | App\Http\Controllers\InventarioController@update                  | web          |
+|        | GET|HEAD  | admin/inventario/{inventario}          | inventario.show    | App\Http\Controllers\InventarioController@show                    | web          |
+|        | GET|HEAD  | admin/inventario/{inventario}/edit     | inventario.edit    | App\Http\Controllers\InventarioController@edit                    | web          |
+|        | POST      | admin/precios                          | precios.store      | App\Http\Controllers\PrecioVentasController@store                 | web          |
+|        | GET|HEAD  | admin/precios                          | precios.index      | App\Http\Controllers\PrecioVentasController@index                 | web          |
+|        | GET|HEAD  | admin/precios/create                   | precios.create     | App\Http\Controllers\PrecioVentasController@create                | web          |
+|        | DELETE    | admin/precios/{precio}                 | precios.destroy    | App\Http\Controllers\PrecioVentasController@destroy               | web          |
+|        | PUT|PATCH | admin/precios/{precio}                 | precios.update     | App\Http\Controllers\PrecioVentasController@update                | web          |
+|        | GET|HEAD  | admin/precios/{precio}                 | precios.show       | App\Http\Controllers\PrecioVentasController@show                  | web          |
+|        | GET|HEAD  | admin/precios/{precio}/edit            | precios.edit       | App\Http\Controllers\PrecioVentasController@edit                  | web          |
+|        | POST      | admin/productos                        | productos.store    | App\Http\Controllers\ProductoController@store                     | web          |
+|        | GET|HEAD  | admin/productos                        | productos.index    | App\Http\Controllers\ProductoController@index                     | web          |
+|        | GET|HEAD  | admin/productos/create                 | productos.create   | App\Http\Controllers\ProductoController@create                    | web          |
+|        | PUT|PATCH | admin/productos/{producto}             | productos.update   | App\Http\Controllers\ProductoController@update                    | web          |
+|        | GET|HEAD  | admin/productos/{producto}             | productos.show     | App\Http\Controllers\ProductoController@show                      | web          |
+|        | DELETE    | admin/productos/{producto}             | productos.destroy  | App\Http\Controllers\ProductoController@destroy                   | web          |
+|        | GET|HEAD  | admin/productos/{producto}/edit        | productos.edit     | App\Http\Controllers\ProductoController@edit                      | web          |
+|        | GET|HEAD  | admin/proveedor                        | proveedor.index    | App\Http\Controllers\ProveedoresController@index                  | web          |
+|        | POST      | admin/proveedor                        | proveedor.store    | App\Http\Controllers\ProveedoresController@store                  | web          |
+|        | GET|HEAD  | admin/proveedor/create                 | proveedor.create   | App\Http\Controllers\ProveedoresController@create                 | web          |
+|        | POST      | admin/proveedor/search                 |                    | App\Http\Controllers\ProveedoresController@search                 | web          |
+|        | DELETE    | admin/proveedor/{proveedor}            | proveedor.destroy  | App\Http\Controllers\ProveedoresController@destroy                | web          |
+|        | PUT|PATCH | admin/proveedor/{proveedor}            | proveedor.update   | App\Http\Controllers\ProveedoresController@update                 | web          |
+|        | GET|HEAD  | admin/proveedor/{proveedor}            | proveedor.show     | App\Http\Controllers\ProveedoresController@show                   | web          |
+|        | GET|HEAD  | admin/proveedor/{proveedor}/edit       | proveedor.edit     | App\Http\Controllers\ProveedoresController@edit                   | web          |
+|        | GET|HEAD  | admin/venta                            | venta.index        | App\Http\Controllers\VentasController@index                       | web          |
+|        | POST      | admin/venta                            | venta.store        | App\Http\Controllers\VentasController@store                       | web          |
+|        | GET|HEAD  | admin/venta/create                     | venta.create       | App\Http\Controllers\VentasController@create                      | web          |
+|        | PUT|PATCH | admin/venta/{ventum}                   | venta.update       | App\Http\Controllers\VentasController@update                      | web          |
+|        | DELETE    | admin/venta/{ventum}                   | venta.destroy      | App\Http\Controllers\VentasController@destroy                     | web          |
+|        | GET|HEAD  | admin/venta/{ventum}                   | venta.show         | App\Http\Controllers\VentasController@show                        | web          |
+|        | GET|HEAD  | admin/venta/{ventum}/edit              | venta.edit         | App\Http\Controllers\VentasController@edit                        | web          |
+|        | GET|HEAD  | api/allclientes                        |                    | App\Http\Controllers\ClienteController@apiAllIndex                | api          |
+|        | GET|HEAD  | api/allclientes/search/{search?}       |                    | App\Http\Controllers\ClienteController@apiAllSearch               | api          |
+|        | GET|HEAD  | api/clientes                           |                    | App\Http\Controllers\ClienteController@apiIndex                   | api          |
+|        | GET|HEAD  | api/clientes/search/{search?}          |                    | App\Http\Controllers\ClienteController@apiSearch                  | api          |
+|        | GET|HEAD  | api/comuna                             |                    | App\Http\Controllers\UbicacionController@getApiComunaIndex        | api          |
+|        | GET|HEAD  | api/dtl                                |                    | App\Http\Controllers\VentasController@getApiDtlIndex              | api          |
+|        | GET|HEAD  | api/familias                           |                    | App\Http\Controllers\FamiliasController@apiIndex                  | api          |
+|        | GET|HEAD  | api/familias/linea/{id?}               |                    | App\Http\Controllers\FamiliasController@getLinea                  | api          |
+|        | GET|HEAD  | api/familias/search/{search?}          |                    | App\Http\Controllers\FamiliasController@apiSearch                 | api          |
+|        | GET|HEAD  | api/lineas                             |                    | App\Http\Controllers\LineasController@apiIndex                    | api          |
+|        | GET|HEAD  | api/lineas/search/{search?}            |                    | App\Http\Controllers\LineasController@apiSearch                   | api          |
+|        | GET|HEAD  | api/marcas                             |                    | App\Http\Controllers\MarcasController@apiIndex                    | api          |
+|        | GET|HEAD  | api/marcas/search/{search?}            |                    | App\Http\Controllers\MarcasController@apiSearch                   | api          |
+|        | GET|HEAD  | api/productos                          |                    | App\Http\Controllers\ProductoController@apiIndex                  | api          |
+|        | GET|HEAD  | api/productos/search/{search?}         |                    | App\Http\Controllers\ProductoController@apiSearch                 | api          |
+|        | GET|HEAD  | api/productos/searchprecio/{search?}   |                    | App\Http\Controllers\ProductoController@apiSearchPrecio           | api          |
+|        | GET|HEAD  | api/proveedores/id/{rut}               |                    | App\Http\Controllers\ProveedoresController@apiIdName              | api          |
+|        | GET|HEAD  | api/proveedores/name/{rut}             |                    | App\Http\Controllers\ProveedoresController@apiName                | api          |
+|        | GET|HEAD  | api/proveedores/search/{search?}       |                    | App\Http\Controllers\ProveedoresController@apiAllSearch           | api          |
+|        | GET|HEAD  | api/provincia                          |                    | App\Http\Controllers\UbicacionController@getApiProvinciaIndex     | api          |
+|        | GET|HEAD  | api/region                             |                    | App\Http\Controllers\UbicacionController@getApiRegionIndex        | api          |
+|        | GET|HEAD  | api/unidades                           |                    | App\Http\Controllers\UnidadesController@apiIndex                  | api          |
+|        | GET|HEAD  | api/unidades/search/{search?}          |                    | App\Http\Controllers\UnidadesController@apiSearch                 | api          |
+|        | GET|HEAD  | api/user                               |                    | Closure                                                           | api,auth:api |
+|        | GET|HEAD  | api/ventas                             |                    | App\Http\Controllers\VentasController@getApiVentaIndex            | api          |
+|        | GET|HEAD  | home                                   | home               | App\Http\Controllers\HomeController@index                         | web          |
+|        | POST      | logout                                 | logout             | App\Http\Controllers\Auth\LoginController@logout                  | web          |
+|        | POST      | registrar                              |                    | App\Http\Controllers\Auth\RegisterController@register             | web,guest    |
+|        | GET|HEAD  | registrar                              | register           | App\Http\Controllers\Auth\RegisterController@showRegistrationForm | web,guest    |
+|        | GET|HEAD  | xml/abril                              |                    | App\Http\Controllers\XmldteController@index                       | web          |
+|        | GET|HEAD  | xml/jclient                            |                    | App\Http\Controllers\XmldteController@indexJsonCliente            | web          |
+|        | GET|HEAD  | xml/jclient-mayo                       |                    | App\Http\Controllers\XmldteController@getJsonClienteMayo          | web          |
+|        | GET|HEAD  | xml/jdtl                               |                    | App\Http\Controllers\XmldteController@indexJsonDtl                | web          |
+|        | GET|HEAD  | xml/jdtlmayo                           |                    | App\Http\Controllers\XmldteController@getJsonDtlMayo              | web          |
+|        | GET|HEAD  | xml/junio                              |                    | App\Http\Controllers\XmldteController@getJunio                    | web          |
+|        | GET|HEAD  | xml/mayo                               |                    | App\Http\Controllers\XmldteController@getMayo                     | web          |
+|        | GET|HEAD  | xml/nc                                 |                    | App\Http\Controllers\XmldteController@indexNotaCredito            | web          |
+|        | GET|HEAD  | xml/r77616080                          |                    | App\Http\Controllers\XmldteController@getPedido                   | web          |
++--------+-----------+----------------------------------------+--------------------+-------------------------------------------------------------------+--------------+

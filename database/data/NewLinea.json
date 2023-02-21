@@ -1,0 +1,82 @@
+[
+	{
+		"LCODIGO" : "00008",
+		"LDESCRIPCION" : "CARDAN"
+	},
+	{
+		"LCODIGO" : "00009",
+		"LDESCRIPCION" : "R"
+	},
+	{
+		"LCODIGO" : "00010",
+		"LDESCRIPCION" : "AC"
+	},
+	{
+		"LCODIGO" : "00011",
+		"LDESCRIPCION" : "UNI"
+	},
+	{
+		"LCODIGO" : "00012",
+		"LDESCRIPCION" : "RES"
+	},
+	{
+		"LCODIGO" : "00013",
+		"LDESCRIPCION" : "0"
+	},
+	{
+		"LCODIGO" : "00015",
+		"LDESCRIPCION" : "FRENOS"
+	},
+	{
+		"LCODIGO" : "00016",
+		"LDESCRIPCION" : "REPUESTOS "
+	},
+	{
+		"LCODIGO" : "00017",
+		"LDESCRIPCION" : "SUSPENSION"
+	},
+	{
+		"LCODIGO" : "00018",
+		"LDESCRIPCION" : "ELEC"
+	},
+	{
+		"LCODIGO" : "00019",
+		"LDESCRIPCION" : "ELECTRICOS"
+	},
+	{
+		"LCODIGO" : "00020",
+		"LDESCRIPCION" : "AOPLADOS"
+	},
+	{
+		"LCODIGO" : "00021",
+		"LDESCRIPCION" : "00"
+	},
+	{
+		"LCODIGO" : "001",
+		"LDESCRIPCION" : "LUBRICANTES"
+	},
+	{
+		"LCODIGO" : "002",
+		"LDESCRIPCION" : "REPUESTOS"
+	},
+	{
+		"LCODIGO" : "003",
+		"LDESCRIPCION" : "ACCESORIOS"
+	},
+	{
+		"LCODIGO" : "004",
+		"LDESCRIPCION" : "VARIOS"
+	},
+	{
+		"LCODIGO" : "ART",
+		"LDESCRIPCION" : "ART. LIMPIEZA"
+	},
+	{
+		"LCODIGO" : "HER",
+		"LDESCRIPCION" : "HERRAMIENTA"
+	},
+	{
+		"LCODIGO" : "SER",
+		"LDESCRIPCION" : "SERVICIOS"
+	}
+]
